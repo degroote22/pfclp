@@ -19,35 +19,6 @@ const MAX_TRIALS: u64 = HIVE_SIZE as u64 / 4;
 const SEND_SCOUTS_NUM: usize = HIVE_SIZE / 6;
 const TO_CLONE_LENGTH: usize = HIVE_SIZE / 33;
 
-fn get_bounds(v: &Vec<u64>) -> (u64, u64) {
-    let mut min: Option<u64> = None;
-    let mut max: Option<u64> = None;
-    for n in v {
-        match max {
-            None => {
-                max = Some(*n);
-            }
-            Some(old) => {
-                if *n > old {
-                    max = Some(*n);
-                }
-            }
-        }
-
-        match min {
-            None => {
-                min = Some(*n);
-            }
-            Some(old) => {
-                if *n < old {
-                    min = Some(*n);
-                }
-            }
-        }
-    }
-    (min.unwrap(), max.unwrap())
-}
-
 fn generate_random_solution(num_candidates: u8, num_points: u32) -> Vec<u8> {
     let mut v = vec![];
 
@@ -106,7 +77,6 @@ pub struct BeeHive<'a> {
     agents: Vec<BeeAgent>,
     instance: &'a instance::ParsedInstance,
     mutations: u64,
-    probabilities: Vec<f64>,
     tick: u64,
     breed_strategy: breed::BreedStrategy,
 }
@@ -117,73 +87,20 @@ impl<'a> BeeHive<'a> {
         breed_strategy: breed::BreedStrategy,
     ) -> BeeHive {
         let agents = generate_random_agents(&instance);
-        let mut bee = BeeHive {
+        let bee = BeeHive {
             agents,
             instance,
             mutations: 0,
             tick: 0,
-            probabilities: vec![],
             breed_strategy,
         };
 
-        bee.compute_probabilities();
-
         bee
-    }
-
-    fn fix_nectar(nectar: u64, min_nectar: u64) -> f64 {
-        // fator de correção que dá resultados bons
-        // porque queremos reduzir o nectar
-        1.0 / (2.0 + nectar as f64 - min_nectar as f64)
-    }
-
-    fn compute_probabilities(&mut self) {
-        let nectar_arr: Vec<u64> = self.agents.iter().map(|i| i.nectar).collect();
-        let (min_nectar, _max_nectar) = get_bounds(&nectar_arr);
-        let sum: f64 = nectar_arr
-            .iter()
-            .map(|nectar| BeeHive::fix_nectar(*nectar, min_nectar))
-            .sum();
-
-        let mut pre_probabilities: Vec<f64> = vec![];
-
-        for nectar in nectar_arr {
-            let fit = BeeHive::fix_nectar(nectar, min_nectar);
-            pre_probabilities.push(fit as f64 / sum as f64);
-        }
-
-        let mut probabilities = vec![pre_probabilities[0]];
-        for (index, prob) in pre_probabilities.iter().enumerate().skip(1) {
-            let val = probabilities[index - 1] + prob;
-            probabilities.push(val);
-        }
-
-        self.probabilities = probabilities;
     }
 
     fn send_employees(&mut self) {
         for index in 0..HIVE_SIZE {
             self.send_employee(index as usize);
-        }
-    }
-
-    fn select(&self, beta: f64) -> usize {
-        for (index, prob) in self.probabilities.iter().enumerate() {
-            if beta < *prob {
-                return index;
-            }
-        }
-
-        panic!("O select deveria mandar alguém de acordo com uma probabilidade.");
-    }
-
-    fn send_onlookers(&mut self) {
-        let mut beta: f64 = thread_rng().gen_range(0.0, 1.0);
-        for _ in 0..HIVE_SIZE {
-            beta += thread_rng().gen_range(0.0, 1.0);
-            beta = beta % 1.0;
-            let index = self.select(beta);
-            self.send_employee(index);
         }
     }
 
@@ -284,7 +201,8 @@ impl<'a> BeeHive<'a> {
         self.agents.sort_by_key(|k| k.nectar);
     }
 
-    fn clone_best(&mut self) {
+    fn send_onlookers(&mut self) {
+        // pega algumas melhores e substitui pelas piores
         self.sort_by_best();
 
         let max = HIVE_SIZE - 1;
@@ -309,17 +227,14 @@ impl<'a> BeeHive<'a> {
 
     fn run_loop(&mut self) {
         self.send_employees();
-        self.send_onlookers();
 
-        self.clone_best();
+        self.send_onlookers();
 
         self.send_scouts();
         if self.tick % 60 == 0 {
             self.print();
         }
         self.tick += 1;
-
-        self.compute_probabilities();
     }
 
     pub fn get_best_solution(&mut self) -> Vec<u8> {
