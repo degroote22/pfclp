@@ -4,7 +4,7 @@ mod calc;
 mod greedy;
 mod instance;
 mod io;
-mod ls;
+mod local_search;
 mod parser;
 mod test_helpers;
 
@@ -28,12 +28,19 @@ fn print_and_local_search(
     name: &str,
 ) {
     let end = PreciseTime::now();
-    println!("{} ms para executar", start.to(end).num_milliseconds());
+    println!(
+        "{} ms para executar usando {}",
+        start.to(end).num_milliseconds(),
+        name
+    );
 
     let base = calc::calc(&instance, &solution);
     println!("Resultado da colônia usando {}: {}", name, base);
 
-    let improved = calc::calc(&instance, &ls::two_opt(&instance, solution.to_vec()));
+    let improved = calc::calc(
+        &instance,
+        &local_search::two_opt(&instance, solution.to_vec()),
+    );
     println!(
         "Resultado da colônia usando {} + busca local: {}",
         name, improved
@@ -54,26 +61,26 @@ fn main() {
     print_and_local_search(
         PreciseTime::now(),
         &instance,
-        bee::bee_hive(&instance, breed::BreedStrategy::UniformCrossover),
-        "UniformCrossOver",
+        bee::run_hive(&instance, breed::BreedStrategy::UniformCrossover),
+        "UniformCrossover",
     );
     print_and_local_search(
         PreciseTime::now(),
         &instance,
-        bee::bee_hive(&instance, breed::BreedStrategy::RandomMess),
+        bee::run_hive(&instance, breed::BreedStrategy::RandomMess),
         "RandomMess",
     );
     print_and_local_search(
         PreciseTime::now(),
         &instance,
-        bee::bee_hive(&instance, breed::BreedStrategy::SinglePointCrossover),
+        bee::run_hive(&instance, breed::BreedStrategy::SinglePointCrossover),
         "SinglePointCrossover",
     );
 
     print_and_local_search(
         PreciseTime::now(),
         &instance,
-        bee::bee_hive(&instance, breed::BreedStrategy::TwoPointCrossover),
+        bee::run_hive(&instance, breed::BreedStrategy::TwoPointCrossover),
         "TwoPointCrossover",
     );
 
@@ -81,7 +88,7 @@ fn main() {
         print_and_local_search(
             PreciseTime::now(),
             &instance,
-            bee::bee_hive(&instance, breed::BreedStrategy::KPointCrossover(i)),
+            bee::run_hive(&instance, breed::BreedStrategy::KPointCrossover(i)),
             &format!("{}-PointCrossover", i),
         );
     }
