@@ -2,32 +2,13 @@ use rand::{thread_rng, Rng};
 
 #[derive(Debug)]
 pub enum BreedStrategy {
-    RandomMess,
     SinglePointCrossover,
     TwoPointCrossover,
     KPointCrossover(u32),
     UniformCrossover,
-}
-
-fn random_mess(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> {
-    let num_points = memory_copy.len() as u32;
-
-    const MAX_SLICES: usize = 8;
-    const MUTATIONS_PER_SOLUTION_SIZE: u32 = 25;
-    let mut indexes_to_loop = vec![];
-    for _ in 0..thread_rng().gen_range(1, MAX_SLICES) {
-        let i = thread_rng().gen_range(0, num_points - 1);
-        indexes_to_loop.push(i);
-    }
-
-    for i in indexes_to_loop {
-        for sum in 0..thread_rng().gen_range(1, MUTATIONS_PER_SOLUTION_SIZE) {
-            let index = (sum + i) % (num_points - 1);
-            memory_copy[index as usize] = friend[index as usize];
-        }
-    }
-
-    memory_copy
+    HalfUniformCrossover,
+    SegmentedCrossover(f64),
+    RandomRespectfulCombination,
 }
 
 fn single_point_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> {
@@ -92,7 +73,7 @@ fn k_point_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>, k: u32) -> Vec<
     memory_copy
 }
 
-pub fn uniform_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> {
+fn uniform_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> {
     let len = memory_copy.len() - 1;
     for i in 0..len {
         if rand::random() {
@@ -103,13 +84,72 @@ pub fn uniform_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> 
     memory_copy
 }
 
+fn half_uniform_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>) -> Vec<u8> {
+    let len = memory_copy.len() - 1;
+    for i in 0..len {
+        // se eh diferente tenta trocar
+        if memory_copy[i] != friend[i] {
+            if rand::random() {
+                memory_copy[i] = friend[i];
+            }
+        }
+    }
+
+    memory_copy
+}
+
+fn segmented_crossover(mut memory_copy: Vec<u8>, friend: &Vec<u8>, s: f64) -> Vec<u8> {
+    let len = memory_copy.len() - 1;
+
+    // let copy_from_me = false;
+
+    // let s = 0.2;
+    let mut wait = 0;
+    let mut started = false;
+    for i in 0..len {
+        if wait >= i {
+            if started {
+                memory_copy[i] = friend[i];
+            }
+        } else {
+            let q = thread_rng().gen_range(0.0, 1.0);
+            let j = thread_rng().gen_range(i, len);
+
+            if q < s {
+                started = true;
+                wait = j;
+            }
+        }
+    }
+
+    memory_copy
+}
+
+fn random_respectful_combination(
+    mut memory_copy: Vec<u8>,
+    friend: &Vec<u8>,
+    num_candidates: u8,
+) -> Vec<u8> {
+    let len = memory_copy.len() - 1;
+    for i in 0..len {
+        // se eh diferente tenta trocar
+        if memory_copy[i] != friend[i] {
+            if rand::random() {
+                memory_copy[i] = thread_rng().gen_range(0, num_candidates - 1)
+            }
+        }
+    }
+
+    memory_copy
+}
+
 pub fn breed(
     employee_memory: Vec<u8>,
     bee_friend_memory: &Vec<u8>,
     breed_strategy: &BreedStrategy,
+    num_candidates: u8,
 ) -> Vec<u8> {
     match breed_strategy {
-        BreedStrategy::RandomMess => random_mess(employee_memory, &bee_friend_memory),
         BreedStrategy::SinglePointCrossover => {
             single_point_crossover(employee_memory, &bee_friend_memory)
         }
@@ -120,5 +160,14 @@ pub fn breed(
             k_point_crossover(employee_memory, &bee_friend_memory, *k)
         }
         BreedStrategy::UniformCrossover => uniform_crossover(employee_memory, &bee_friend_memory),
+        BreedStrategy::HalfUniformCrossover => {
+            half_uniform_crossover(employee_memory, &bee_friend_memory)
+        }
+        BreedStrategy::SegmentedCrossover(s) => {
+            segmented_crossover(employee_memory, &bee_friend_memory, *s)
+        }
+        BreedStrategy::RandomRespectfulCombination => {
+            random_respectful_combination(employee_memory, &bee_friend_memory, num_candidates)
+        }
     }
 }

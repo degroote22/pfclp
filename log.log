@@ -1,0 +1,12 @@
+Starting instances/d1000/d1000_01.dat
+Execução 1 de 10
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 504
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 786
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 674

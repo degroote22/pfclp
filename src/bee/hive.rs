@@ -45,7 +45,12 @@ impl<'a> BeeHive<'a> {
         let friend_index = thread_rng().gen_range(0, super::HIVE_SIZE - 1);
         let bee_friend_memory = self.agents.iter().nth(friend_index).unwrap().memory.clone();
 
-        let mutated = breed::breed(employee_memory, &bee_friend_memory, &self.breed_strategy);
+        let mutated = breed::breed(
+            employee_memory,
+            &bee_friend_memory,
+            &self.breed_strategy,
+            self.instance.get_num_candidates(),
+        );
 
         let mutation_nectar = calc::calc(&self.instance, &mutated);
 
