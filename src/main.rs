@@ -74,15 +74,16 @@ fn main() {
         "instances/d1000/d1000_24.dat",
         "instances/d1000/d1000_25.dat",
     ];
-    for name in names {
-        let instance = parser::parse(&io::read_file(name));
-        println!("Starting {}", name);
-        let max = 10;
-        for i in 1..max + 1 {
-            println!("Execução {} de {}", i, max);
+    let max = 10;
+    for i in 1..max + 1 {
+        println!("Execução {} de {}", i, max);
+        for name in names.iter() {
+            let instance = parser::parse(&io::read_file(name));
+            println!("Starting {}", name);
             run_all_breeds(&instance);
+            println!("Ending {}", name);
+            println!("");
         }
-        println!("Ending {}", name);
         println!("");
     }
 }
