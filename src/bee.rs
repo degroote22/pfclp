@@ -1,6 +1,7 @@
+use breed;
 use calc;
 use instance;
-use mutate;
+use std::env;
 
 use rand::{thread_rng, Rng};
 #[derive(Debug)]
@@ -9,12 +10,14 @@ pub struct BeeAgent {
     nectar: u64,
     counter: u64,
 }
-const HIVE_SIZE: usize = 100;
-const MAX_ITERATIONS: usize = 600;
+const MAX_ITERATIONS: usize = 200;
 
-const MAX_TRIALS: u64 = 25;
-const SEND_SCOUTS_NUM: usize = 15;
-const TO_CLONE_LENGTH: usize = 3;
+// essas se mudar uma coisa a outra fica alta demais
+// esse balanço foi difícil de achar, portanto não mudar
+const HIVE_SIZE: usize = 25;
+const MAX_TRIALS: u64 = HIVE_SIZE as u64 / 4;
+const SEND_SCOUTS_NUM: usize = HIVE_SIZE / 6;
+const TO_CLONE_LENGTH: usize = HIVE_SIZE / 33;
 
 fn get_bounds(v: &Vec<u64>) -> (u64, u64) {
     let mut min: Option<u64> = None;
@@ -97,6 +100,7 @@ impl BeeAgent {
         self.nectar = nectar;
     }
 }
+
 #[derive(Debug)]
 pub struct BeeHive<'a> {
     agents: Vec<BeeAgent>,
@@ -104,11 +108,14 @@ pub struct BeeHive<'a> {
     mutations: u64,
     probabilities: Vec<f64>,
     tick: u64,
+    breed_strategy: breed::BreedStrategy,
 }
 
 impl<'a> BeeHive<'a> {
-    pub fn new(instance: &instance::ParsedInstance) -> BeeHive {
-        println!("generating bee hive");
+    pub fn new(
+        instance: &instance::ParsedInstance,
+        breed_strategy: breed::BreedStrategy,
+    ) -> BeeHive {
         let agents = generate_random_agents(&instance);
         let mut bee = BeeHive {
             agents,
@@ -116,8 +123,8 @@ impl<'a> BeeHive<'a> {
             mutations: 0,
             tick: 0,
             probabilities: vec![],
+            breed_strategy,
         };
-        println!("computing probabilities");
 
         bee.compute_probabilities();
 
@@ -176,7 +183,6 @@ impl<'a> BeeHive<'a> {
             beta += thread_rng().gen_range(0.0, 1.0);
             beta = beta % 1.0;
             let index = self.select(beta);
-            // println!("sending onlooker");
             self.send_employee(index);
         }
     }
@@ -189,13 +195,10 @@ impl<'a> BeeHive<'a> {
         let friend_index = thread_rng().gen_range(0, HIVE_SIZE - 1);
         let bee_friend_memory = self.agents.iter().nth(friend_index).unwrap().memory.clone();
 
-        let mutated = mutate::try0(
-            employee_memory,
-            &bee_friend_memory,
-            self.instance.get_num_points(),
-        );
+        let mutated = breed::breed(employee_memory, &bee_friend_memory, &self.breed_strategy);
 
         let mutation_nectar = calc::calc(&self.instance, &mutated);
+
         if mutation_nectar < employee_nectar {
             self.mutations += 1;
             self.agents[index].reset_counter();
@@ -231,7 +234,6 @@ impl<'a> BeeHive<'a> {
         let (index, _) = oldest.unwrap();
 
         if self.agents[index as usize].counter > MAX_TRIALS {
-            // println!("sending scout {}", self.agents[index as usize].nectar);
             let solution = generate_random_solution(
                 self.instance.get_num_candidates(),
                 self.instance.get_num_points(),
@@ -260,6 +262,16 @@ impl<'a> BeeHive<'a> {
     }
 
     fn print(&self) {
+        let args: Vec<String> = env::args().collect();
+        let mut debug = false;
+        for arg in args {
+            if arg == "dbg" {
+                debug = true;
+            }
+        }
+        if !debug {
+            return;
+        }
         println!(
             "mean {}",
             self.agents.iter().map(|x| x.nectar).sum::<u64>() / self.agents.len() as u64
@@ -317,13 +329,14 @@ impl<'a> BeeHive<'a> {
     }
 }
 
-pub fn bee_hive(instance: &instance::ParsedInstance) -> Vec<u8> {
-    let mut bh = BeeHive::new(&instance);
+pub fn bee_hive(
+    instance: &instance::ParsedInstance,
+    breed_strategy: breed::BreedStrategy,
+) -> Vec<u8> {
+    let mut bh = BeeHive::new(&instance, breed_strategy);
     bh.run_all();
 
     let best = bh.get_best_solution();
-
-    // println!("best {:?}", best);
 
     best
 }

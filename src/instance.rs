@@ -51,6 +51,7 @@ impl ParsedInstance {
         self.collisions_map.get(with)
     }
 
+    #[allow(dead_code)]
     pub fn collides(&self, lhs: &InstanceFace, rhs: &InstanceFace) -> bool {
         match self.get_collisions(lhs) {
             Some(lhs_collisions) => lhs_collisions.contains(rhs),

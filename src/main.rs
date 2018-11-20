@@ -1,10 +1,10 @@
 mod bee;
+mod breed;
 mod calc;
 mod greedy;
 mod instance;
 mod io;
 mod ls;
-mod mutate;
 mod parser;
 mod test_helpers;
 
@@ -14,8 +14,30 @@ use regex::Regex;
 #[macro_use]
 extern crate lazy_static;
 
+extern crate time;
+use time::PreciseTime;
+
 lazy_static! {
     static ref RE: Regex = Regex::new("\\s").unwrap();
+}
+
+fn print_and_local_search(
+    start: PreciseTime,
+    instance: &instance::ParsedInstance,
+    solution: Vec<u8>,
+    name: &str,
+) {
+    let end = PreciseTime::now();
+    println!("{} ms para executar", start.to(end).num_milliseconds());
+
+    let base = calc::calc(&instance, &solution);
+    println!("Resultado da colônia usando {}: {}", name, base);
+
+    let improved = calc::calc(&instance, &ls::two_opt(&instance, solution.to_vec()));
+    println!(
+        "Resultado da colônia usando {} + busca local: {}",
+        name, improved
+    );
 }
 
 fn main() {
@@ -23,17 +45,44 @@ fn main() {
     // let instance = parser::parse(&io::read_file("instances/d25/d25_01.dat"));
     let instance = parser::parse(&io::read_file("instances/d1000/d1000_01.dat"));
 
-    let greedy_solution = ls::two_opt(&instance, greedy::generate(&instance));
-    let result_greedy = calc::calc(&instance, &greedy_solution);
+    print_and_local_search(
+        PreciseTime::now(),
+        &instance,
+        greedy::generate(&instance),
+        "método guloso",
+    );
+    print_and_local_search(
+        PreciseTime::now(),
+        &instance,
+        bee::bee_hive(&instance, breed::BreedStrategy::UniformCrossover),
+        "UniformCrossOver",
+    );
+    print_and_local_search(
+        PreciseTime::now(),
+        &instance,
+        bee::bee_hive(&instance, breed::BreedStrategy::RandomMess),
+        "RandomMess",
+    );
+    print_and_local_search(
+        PreciseTime::now(),
+        &instance,
+        bee::bee_hive(&instance, breed::BreedStrategy::SinglePointCrossover),
+        "SinglePointCrossover",
+    );
 
-    let solution_bee: Vec<u8> = bee::bee_hive(&instance);
+    print_and_local_search(
+        PreciseTime::now(),
+        &instance,
+        bee::bee_hive(&instance, breed::BreedStrategy::TwoPointCrossover),
+        "TwoPointCrossover",
+    );
 
-    let result_bee_pure = calc::calc(&instance, &solution_bee);
-
-    let solution_bee_improved = ls::two_opt(&instance, solution_bee);
-    let result_bee_improved = calc::calc(&instance, &solution_bee_improved);
-
-    println!("Resultado guloso: {}", result_greedy);
-    println!("Resultado da colônia: {}", result_bee_pure);
-    println!("Resultado após busca local: {}", result_bee_improved);
+    for i in 3..5 {
+        print_and_local_search(
+            PreciseTime::now(),
+            &instance,
+            bee::bee_hive(&instance, breed::BreedStrategy::KPointCrossover(i)),
+            &format!("{}-PointCrossover", i),
+        );
+    }
 }
