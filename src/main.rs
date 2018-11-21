@@ -4,7 +4,7 @@ mod calc;
 mod greedy;
 mod instance;
 mod io;
-// mod local_search;
+mod local_search;
 mod parser;
 mod test_helpers;
 
@@ -22,70 +22,47 @@ lazy_static! {
 }
 
 fn print_and_local_search(
-    _start: PreciseTime,
+    start: PreciseTime,
     instance: &instance::ParsedInstance,
     solution: Vec<u8>,
     name: &str,
 ) {
-    // let end = PreciseTime::now();
-    // println!(
-    //     "{} ms para executar usando {}",
-    //     start.to(end).num_milliseconds(),
-    //     name
-    // );
+    let end = PreciseTime::now();
+    println!("{}:", name);
+    println!("{}ms", start.to(end).num_milliseconds(),);
 
-    let base = calc::calc(&instance, &solution);
-    println!("Resultado da colônia usando {}: {}", name, base);
+    let result = calc::calc(&instance, &solution);
+    let conflicting = result / 2;
 
-    // let improved = calc::calc(
-    //     &instance,
-    //     &local_search::two_opt(&instance, solution.to_vec()),
-    // );
-    // println!(
-    //     "Resultado da colônia usando {} + busca local: {}",
-    //     name, improved
-    // );
+    let rls: f64 = 100.0 * (conflicting as f64 / instance.get_num_points() as f64);
+    let rls_text = format!("{:.*}", 2, 100.0 - rls);
+    println!("RLS%: {}%", rls_text);
+
+    let improved = calc::calc(
+        &instance,
+        &local_search::two_opt(&instance, solution.to_vec()),
+    );
+    let conflicting = improved / 2;
+    let rls: f64 = 100.0 * (conflicting as f64 / instance.get_num_points() as f64);
+    let rls_text = format!("{:.*}", 2, 100.0 - rls);
+    println!("RLS% após busca local: {}%", rls_text);
+    println!("");
 }
 fn main() {
-    let names = vec![
-        "instances/d1000/d1000_01.dat",
-        "instances/d1000/d1000_02.dat",
-        "instances/d1000/d1000_03.dat",
-        "instances/d1000/d1000_04.dat",
-        "instances/d1000/d1000_05.dat",
-        "instances/d1000/d1000_06.dat",
-        "instances/d1000/d1000_07.dat",
-        "instances/d1000/d1000_08.dat",
-        "instances/d1000/d1000_09.dat",
-        "instances/d1000/d1000_10.dat",
-        "instances/d1000/d1000_11.dat",
-        "instances/d1000/d1000_12.dat",
-        "instances/d1000/d1000_13.dat",
-        "instances/d1000/d1000_14.dat",
-        "instances/d1000/d1000_15.dat",
-        "instances/d1000/d1000_16.dat",
-        "instances/d1000/d1000_17.dat",
-        "instances/d1000/d1000_18.dat",
-        "instances/d1000/d1000_19.dat",
-        "instances/d1000/d1000_20.dat",
-        "instances/d1000/d1000_21.dat",
-        "instances/d1000/d1000_22.dat",
-        "instances/d1000/d1000_23.dat",
-        "instances/d1000/d1000_24.dat",
-        "instances/d1000/d1000_25.dat",
-    ];
-    let max = 10;
-    for i in 1..max + 1 {
-        println!("Execução {} de {}", i, max);
-        for name in names.iter() {
-            let instance = parser::parse(&io::read_file(name));
-            println!("Starting {}", name);
-            run_all_breeds(&instance);
-            println!("Ending {}", name);
-            println!("");
-        }
+    let names = vec!["instances/taillard/chH04L24p4.dat"];
+    // let max = 10;
+    // for i in 1..max + 1 {
+    // println!("Execução {} de {}", i, max);
+    for name in names.iter() {
+        let mut instance = parser::parse(&io::read_file(name));
+        instance.clip_num_points(505);
+        println!("Starting {}", name);
+        run_all_breeds(&instance);
+        println!("Ending {}", name);
         println!("");
     }
+    println!("");
+    // }
 }
 
 fn run_all_breeds(instance: &instance::ParsedInstance) {

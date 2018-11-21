@@ -39,6 +39,10 @@ impl ParsedInstance {
         }
     }
 
+    pub fn clip_num_points(&mut self, num_points: u32) {
+        self.num_points = num_points;
+    }
+
     pub fn get_num_points(&self) -> u32 {
         self.num_points
     }
