@@ -1,7 +1,3770 @@
-Starting instances/d1000/d1000_01.dat
 Execução 1 de 10
+Starting instances/d1000/d1000_01.dat
 Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 338
+Resultado da colônia usando SegmentedCrossover: 798
+Resultado da colônia usando UniformCrossover: 322
+Resultado da colônia usando SinglePointCrossover: 760
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 694
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 662
+Resultado da colônia usando 6-PointCrossover: 668
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 404
+Resultado da colônia usando SegmentedCrossover: 838
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 832
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 688
+Resultado da colônia usando 4-PointCrossover: 672
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 408
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 338
+Resultado da colônia usando SinglePointCrossover: 832
+Resultado da colônia usando TwoPointCrossover: 742
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 704
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 552
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 800
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 756
+Resultado da colônia usando 3-PointCrossover: 712
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 710
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 712
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 338
+Resultado da colônia usando SegmentedCrossover: 744
+Resultado da colônia usando UniformCrossover: 326
+Resultado da colônia usando SinglePointCrossover: 742
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 654
+Resultado da colônia usando 5-PointCrossover: 636
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 348
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 666
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 640
+Resultado da colônia usando 6-PointCrossover: 626
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 570
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 342
+Resultado da colônia usando SinglePointCrossover: 832
+Resultado da colônia usando TwoPointCrossover: 670
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 716
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 518
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 406
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 750
+Resultado da colônia usando 3-PointCrossover: 712
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 702
+Resultado da colônia usando 7-PointCrossover: 716
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 508
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 800
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 442
+Resultado da colônia usando HalfUniformCrossover: 358
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 654
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 632
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 460
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 688
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 608
+Resultado da colônia usando 5-PointCrossover: 656
+Resultado da colônia usando 6-PointCrossover: 684
+Resultado da colônia usando 7-PointCrossover: 646
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 564
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 690
+Resultado da colônia usando 4-PointCrossover: 676
+Resultado da colônia usando 5-PointCrossover: 678
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 474
+Resultado da colônia usando HalfUniformCrossover: 358
+Resultado da colônia usando SegmentedCrossover: 776
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 764
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 644
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 848
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 710
+Resultado da colônia usando 3-PointCrossover: 720
+Resultado da colônia usando 4-PointCrossover: 696
+Resultado da colônia usando 5-PointCrossover: 646
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 712
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 520
+Resultado da colônia usando HalfUniformCrossover: 420
+Resultado da colônia usando SegmentedCrossover: 880
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 736
+Resultado da colônia usando 4-PointCrossover: 726
+Resultado da colônia usando 5-PointCrossover: 700
+Resultado da colônia usando 6-PointCrossover: 718
+Resultado da colônia usando 7-PointCrossover: 722
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 488
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 858
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 714
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 656
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 446
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 688
+Resultado da colônia usando 3-PointCrossover: 672
+Resultado da colônia usando 4-PointCrossover: 672
+Resultado da colônia usando 5-PointCrossover: 656
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 620
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 716
+Resultado da colônia usando 6-PointCrossover: 650
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 450
+Resultado da colônia usando HalfUniformCrossover: 336
+Resultado da colônia usando SegmentedCrossover: 758
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 648
+Resultado da colônia usando 3-PointCrossover: 642
+Resultado da colônia usando 4-PointCrossover: 660
+Resultado da colônia usando 5-PointCrossover: 616
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 538
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 688
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 868
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 742
+Resultado da colônia usando 3-PointCrossover: 742
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 732
+Resultado da colônia usando 6-PointCrossover: 676
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 466
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 760
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 784
+Resultado da colônia usando TwoPointCrossover: 662
+Resultado da colônia usando 3-PointCrossover: 650
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 592
+Resultado da colônia usando 6-PointCrossover: 668
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 522
+Resultado da colônia usando HalfUniformCrossover: 386
+Resultado da colônia usando SegmentedCrossover: 810
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 728
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 412
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 832
+Resultado da colônia usando TwoPointCrossover: 762
+Resultado da colônia usando 3-PointCrossover: 710
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 696
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 340
+Resultado da colônia usando SinglePointCrossover: 814
+Resultado da colônia usando TwoPointCrossover: 662
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 634
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 636
+Resultado da colônia usando 7-PointCrossover: 622
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 2 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 824
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 846
+Resultado da colônia usando TwoPointCrossover: 684
+Resultado da colônia usando 3-PointCrossover: 690
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 852
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 684
+Resultado da colônia usando 5-PointCrossover: 718
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 654
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 466
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 664
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 518
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 852
+Resultado da colônia usando TwoPointCrossover: 708
+Resultado da colônia usando 3-PointCrossover: 694
+Resultado da colônia usando 4-PointCrossover: 730
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 674
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 464
+Resultado da colônia usando HalfUniformCrossover: 350
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 346
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 664
+Resultado da colônia usando 3-PointCrossover: 652
+Resultado da colônia usando 4-PointCrossover: 646
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 624
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 768
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 772
+Resultado da colônia usando TwoPointCrossover: 658
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 664
+Resultado da colônia usando 5-PointCrossover: 626
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 634
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 514
+Resultado da colônia usando HalfUniformCrossover: 386
+Resultado da colônia usando SegmentedCrossover: 830
+Resultado da colônia usando UniformCrossover: 416
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 702
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 372
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 712
+Resultado da colônia usando 5-PointCrossover: 642
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 692
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 504
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 788
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 466
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 624
+Resultado da colônia usando 5-PointCrossover: 656
+Resultado da colônia usando 6-PointCrossover: 636
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 452
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 798
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 804
+Resultado da colônia usando TwoPointCrossover: 692
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 656
+Resultado da colônia usando 5-PointCrossover: 612
+Resultado da colônia usando 6-PointCrossover: 626
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 488
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 848
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 682
+Resultado da colônia usando 6-PointCrossover: 664
+Resultado da colônia usando 7-PointCrossover: 682
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 786
+Resultado da colônia usando TwoPointCrossover: 692
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 624
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 854
+Resultado da colônia usando UniformCrossover: 446
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 672
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 706
+Resultado da colônia usando 6-PointCrossover: 680
+Resultado da colônia usando 7-PointCrossover: 714
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 416
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 422
+Resultado da colônia usando SinglePointCrossover: 804
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 678
+Resultado da colônia usando 4-PointCrossover: 706
+Resultado da colônia usando 5-PointCrossover: 682
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 864
+Resultado da colônia usando TwoPointCrossover: 714
+Resultado da colônia usando 3-PointCrossover: 686
+Resultado da colônia usando 4-PointCrossover: 702
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 704
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 442
+Resultado da colônia usando HalfUniformCrossover: 386
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 334
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 662
+Resultado da colônia usando 3-PointCrossover: 678
+Resultado da colônia usando 4-PointCrossover: 626
+Resultado da colônia usando 5-PointCrossover: 608
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 800
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 682
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 470
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 748
+Resultado da colônia usando UniformCrossover: 342
+Resultado da colônia usando SinglePointCrossover: 778
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 632
+Resultado da colônia usando 4-PointCrossover: 638
+Resultado da colônia usando 5-PointCrossover: 640
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 822
+Resultado da colônia usando TwoPointCrossover: 674
+Resultado da colônia usando 3-PointCrossover: 626
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 610
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 868
+Resultado da colônia usando UniformCrossover: 430
+Resultado da colônia usando SinglePointCrossover: 862
+Resultado da colônia usando TwoPointCrossover: 708
+Resultado da colônia usando 3-PointCrossover: 716
+Resultado da colônia usando 4-PointCrossover: 726
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 736
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 432
+Resultado da colônia usando HalfUniformCrossover: 314
+Resultado da colônia usando SegmentedCrossover: 728
+Resultado da colônia usando UniformCrossover: 342
+Resultado da colônia usando SinglePointCrossover: 814
+Resultado da colônia usando TwoPointCrossover: 666
+Resultado da colônia usando 3-PointCrossover: 638
+Resultado da colônia usando 4-PointCrossover: 642
+Resultado da colônia usando 5-PointCrossover: 582
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 608
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 418
+Resultado da colônia usando SegmentedCrossover: 830
+Resultado da colônia usando UniformCrossover: 406
+Resultado da colônia usando SinglePointCrossover: 870
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 652
+Resultado da colônia usando 4-PointCrossover: 712
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 698
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
 Resultado da colônia usando RandomRespectfulCombination: 506
-Execução 1 de 10
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 822
+Resultado da colônia usando TwoPointCrossover: 728
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 686
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 702
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 344
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 672
+Resultado da colônia usando 3-PointCrossover: 678
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 672
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 3 de 10
 Starting instances/d1000/d1000_01.dat
 Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 774
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 690
+Resultado da colônia usando 5-PointCrossover: 682
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 402
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 740
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 700
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 518
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 404
+Resultado da colônia usando SinglePointCrossover: 842
+Resultado da colônia usando TwoPointCrossover: 718
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 318
+Resultado da colônia usando SegmentedCrossover: 772
+Resultado da colônia usando UniformCrossover: 332
+Resultado da colônia usando SinglePointCrossover: 756
+Resultado da colônia usando TwoPointCrossover: 644
+Resultado da colônia usando 3-PointCrossover: 644
+Resultado da colônia usando 4-PointCrossover: 638
+Resultado da colônia usando 5-PointCrossover: 606
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 460
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 788
+Resultado da colônia usando UniformCrossover: 358
+Resultado da colônia usando SinglePointCrossover: 762
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 654
+Resultado da colônia usando 5-PointCrossover: 638
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 646
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 548
+Resultado da colônia usando HalfUniformCrossover: 404
+Resultado da colônia usando SegmentedCrossover: 818
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 876
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 704
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 722
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 358
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 850
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 706
+Resultado da colônia usando 5-PointCrossover: 714
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 464
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 798
+Resultado da colônia usando UniformCrossover: 404
+Resultado da colônia usando SinglePointCrossover: 790
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 690
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 650
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 474
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 350
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 718
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 682
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 470
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 346
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 718
+Resultado da colônia usando 3-PointCrossover: 688
+Resultado da colônia usando 4-PointCrossover: 706
+Resultado da colônia usando 5-PointCrossover: 592
+Resultado da colônia usando 6-PointCrossover: 610
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 534
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 410
+Resultado da colônia usando SinglePointCrossover: 858
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 672
+Resultado da colônia usando 6-PointCrossover: 664
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 350
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 520
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 406
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 722
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 714
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 552
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 848
+Resultado da colônia usando UniformCrossover: 432
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 752
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 496
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 828
+Resultado da colônia usando UniformCrossover: 348
+Resultado da colônia usando SinglePointCrossover: 850
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 716
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 714
+Resultado da colônia usando 6-PointCrossover: 684
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 350
+Resultado da colônia usando SegmentedCrossover: 830
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 650
+Resultado da colônia usando 5-PointCrossover: 662
+Resultado da colônia usando 6-PointCrossover: 630
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 680
+Resultado da colônia usando 3-PointCrossover: 704
+Resultado da colônia usando 4-PointCrossover: 676
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 334
+Resultado da colônia usando SegmentedCrossover: 762
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 754
+Resultado da colônia usando TwoPointCrossover: 674
+Resultado da colônia usando 3-PointCrossover: 674
+Resultado da colônia usando 4-PointCrossover: 628
+Resultado da colônia usando 5-PointCrossover: 628
+Resultado da colônia usando 6-PointCrossover: 608
+Resultado da colônia usando 7-PointCrossover: 632
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 784
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 538
+Resultado da colônia usando HalfUniformCrossover: 422
+Resultado da colônia usando SegmentedCrossover: 800
+Resultado da colônia usando UniformCrossover: 406
+Resultado da colônia usando SinglePointCrossover: 864
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 718
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 678
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 466
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 322
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 656
+Resultado da colônia usando 3-PointCrossover: 656
+Resultado da colônia usando 4-PointCrossover: 626
+Resultado da colônia usando 5-PointCrossover: 614
+Resultado da colônia usando 6-PointCrossover: 614
+Resultado da colônia usando 7-PointCrossover: 624
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 826
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 688
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 724
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 768
+Resultado da colônia usando 3-PointCrossover: 704
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 702
+Resultado da colônia usando 6-PointCrossover: 684
+Resultado da colônia usando 7-PointCrossover: 694
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 660
+Resultado da colônia usando 3-PointCrossover: 692
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 4 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 358
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 652
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 664
+Resultado da colônia usando 5-PointCrossover: 672
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 704
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 514
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 796
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 710
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 702
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 674
+Resultado da colônia usando 4-PointCrossover: 664
+Resultado da colônia usando 5-PointCrossover: 662
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 696
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 514
+Resultado da colônia usando HalfUniformCrossover: 404
+Resultado da colônia usando SegmentedCrossover: 880
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 888
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 736
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 710
+Resultado da colônia usando 7-PointCrossover: 694
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 776
+Resultado da colônia usando UniformCrossover: 320
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 678
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 672
+Resultado da colônia usando 5-PointCrossover: 632
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 782
+Resultado da colônia usando UniformCrossover: 346
+Resultado da colônia usando SinglePointCrossover: 760
+Resultado da colônia usando TwoPointCrossover: 672
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 614
+Resultado da colônia usando 5-PointCrossover: 690
+Resultado da colônia usando 6-PointCrossover: 622
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 410
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 728
+Resultado da colônia usando 3-PointCrossover: 672
+Resultado da colônia usando 4-PointCrossover: 684
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 682
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 830
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 680
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 650
+Resultado da colônia usando 5-PointCrossover: 640
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 790
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 642
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 670
+Resultado da colônia usando 3-PointCrossover: 648
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 484
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 800
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 698
+Resultado da colônia usando 3-PointCrossover: 688
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 696
+Resultado da colônia usando 6-PointCrossover: 724
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 348
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 652
+Resultado da colônia usando 5-PointCrossover: 660
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 712
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 844
+Resultado da colônia usando TwoPointCrossover: 758
+Resultado da colônia usando 3-PointCrossover: 686
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 726
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 414
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 394
+Resultado da colônia usando SinglePointCrossover: 848
+Resultado da colônia usando TwoPointCrossover: 730
+Resultado da colônia usando 3-PointCrossover: 690
+Resultado da colônia usando 4-PointCrossover: 686
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 696
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 822
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 678
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 828
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 814
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 646
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 632
+Resultado da colônia usando 7-PointCrossover: 630
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 452
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 810
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 844
+Resultado da colônia usando TwoPointCrossover: 692
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 684
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 668
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 484
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 780
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 608
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 628
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 508
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 764
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 648
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 542
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 716
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 702
+Resultado da colônia usando 7-PointCrossover: 706
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 454
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 764
+Resultado da colônia usando UniformCrossover: 322
+Resultado da colônia usando SinglePointCrossover: 754
+Resultado da colônia usando TwoPointCrossover: 650
+Resultado da colônia usando 3-PointCrossover: 624
+Resultado da colônia usando 4-PointCrossover: 622
+Resultado da colônia usando 5-PointCrossover: 610
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 452
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 842
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 738
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 730
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 704
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 550
+Resultado da colônia usando HalfUniformCrossover: 372
+Resultado da colônia usando SegmentedCrossover: 860
+Resultado da colônia usando UniformCrossover: 416
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 730
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 700
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 820
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 782
+Resultado da colônia usando TwoPointCrossover: 668
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 650
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 5 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 680
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 694
+Resultado da colônia usando 6-PointCrossover: 676
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 400
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 712
+Resultado da colônia usando 4-PointCrossover: 656
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 528
+Resultado da colônia usando HalfUniformCrossover: 418
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 712
+Resultado da colônia usando 4-PointCrossover: 726
+Resultado da colônia usando 5-PointCrossover: 690
+Resultado da colônia usando 6-PointCrossover: 646
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 764
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 670
+Resultado da colônia usando 3-PointCrossover: 644
+Resultado da colônia usando 4-PointCrossover: 632
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 598
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 464
+Resultado da colônia usando HalfUniformCrossover: 322
+Resultado da colônia usando SegmentedCrossover: 782
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 766
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 626
+Resultado da colônia usando 6-PointCrossover: 650
+Resultado da colônia usando 7-PointCrossover: 616
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 462
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 786
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 704
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 668
+Resultado da colônia usando 7-PointCrossover: 704
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 666
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 712
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 472
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 746
+Resultado da colônia usando UniformCrossover: 350
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 646
+Resultado da colônia usando 5-PointCrossover: 656
+Resultado da colônia usando 6-PointCrossover: 632
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 460
+Resultado da colônia usando HalfUniformCrossover: 348
+Resultado da colônia usando SegmentedCrossover: 790
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 642
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 626
+Resultado da colônia usando 5-PointCrossover: 626
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 612
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 774
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 654
+Resultado da colônia usando 5-PointCrossover: 660
+Resultado da colônia usando 6-PointCrossover: 726
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 404
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 646
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 654
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 646
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 758
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 520
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 868
+Resultado da colônia usando TwoPointCrossover: 748
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 634
+Resultado da colônia usando 5-PointCrossover: 704
+Resultado da colônia usando 6-PointCrossover: 682
+Resultado da colônia usando 7-PointCrossover: 734
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 488
+Resultado da colônia usando HalfUniformCrossover: 348
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 730
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 638
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 372
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 334
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 600
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 504
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 828
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 772
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 642
+Resultado da colônia usando 4-PointCrossover: 636
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 730
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 340
+Resultado da colônia usando SegmentedCrossover: 758
+Resultado da colônia usando UniformCrossover: 318
+Resultado da colônia usando SinglePointCrossover: 802
+Resultado da colônia usando TwoPointCrossover: 656
+Resultado da colônia usando 3-PointCrossover: 632
+Resultado da colônia usando 4-PointCrossover: 606
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 630
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 656
+Resultado da colônia usando 4-PointCrossover: 644
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 408
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 406
+Resultado da colônia usando SinglePointCrossover: 874
+Resultado da colônia usando TwoPointCrossover: 784
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 704
+Resultado da colônia usando 5-PointCrossover: 714
+Resultado da colônia usando 6-PointCrossover: 700
+Resultado da colônia usando 7-PointCrossover: 712
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 330
+Resultado da colônia usando SegmentedCrossover: 718
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 754
+Resultado da colônia usando TwoPointCrossover: 628
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 606
+Resultado da colônia usando 5-PointCrossover: 624
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 626
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 814
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 678
+Resultado da colônia usando 6-PointCrossover: 704
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 398
+Resultado da colônia usando SegmentedCrossover: 860
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 810
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 648
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 706
+Resultado da colônia usando 7-PointCrossover: 674
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 6 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 544
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 652
+Resultado da colônia usando 4-PointCrossover: 642
+Resultado da colônia usando 5-PointCrossover: 660
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 526
+Resultado da colônia usando HalfUniformCrossover: 410
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 898
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 724
+Resultado da colônia usando 5-PointCrossover: 712
+Resultado da colônia usando 6-PointCrossover: 664
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 404
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 846
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 640
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 536
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 890
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 688
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 690
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 348
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 650
+Resultado da colônia usando 3-PointCrossover: 638
+Resultado da colônia usando 4-PointCrossover: 634
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 616
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 780
+Resultado da colônia usando UniformCrossover: 344
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 684
+Resultado da colônia usando 3-PointCrossover: 648
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 660
+Resultado da colônia usando 6-PointCrossover: 648
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 838
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 710
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 652
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 528
+Resultado da colônia usando HalfUniformCrossover: 408
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 858
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 702
+Resultado da colônia usando 4-PointCrossover: 708
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 678
+Resultado da colônia usando 7-PointCrossover: 706
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 410
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 804
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 650
+Resultado da colônia usando 5-PointCrossover: 678
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 492
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 824
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 680
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 676
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 638
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 474
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 666
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 646
+Resultado da colônia usando 7-PointCrossover: 610
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 534
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 866
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 698
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 724
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 754
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 764
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 622
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 412
+Resultado da colônia usando SegmentedCrossover: 848
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 696
+Resultado da colônia usando 5-PointCrossover: 662
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 428
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 724
+Resultado da colônia usando 4-PointCrossover: 718
+Resultado da colônia usando 5-PointCrossover: 732
+Resultado da colônia usando 6-PointCrossover: 680
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 672
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 436
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 820
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 804
+Resultado da colônia usando TwoPointCrossover: 676
+Resultado da colônia usando 3-PointCrossover: 650
+Resultado da colônia usando 4-PointCrossover: 662
+Resultado da colônia usando 5-PointCrossover: 704
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 762
+Resultado da colônia usando TwoPointCrossover: 678
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 686
+Resultado da colônia usando 5-PointCrossover: 642
+Resultado da colônia usando 6-PointCrossover: 680
+Resultado da colônia usando 7-PointCrossover: 664
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 372
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 314
+Resultado da colônia usando SinglePointCrossover: 750
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 632
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 642
+Resultado da colônia usando 6-PointCrossover: 650
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 358
+Resultado da colônia usando SinglePointCrossover: 786
+Resultado da colônia usando TwoPointCrossover: 674
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 696
+Resultado da colônia usando 5-PointCrossover: 656
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 652
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 430
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 862
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 690
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 718
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 430
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 332
+Resultado da colônia usando SinglePointCrossover: 800
+Resultado da colônia usando TwoPointCrossover: 654
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 604
+Resultado da colônia usando 5-PointCrossover: 628
+Resultado da colônia usando 6-PointCrossover: 638
+Resultado da colônia usando 7-PointCrossover: 598
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 744
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 710
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 648
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 860
+Resultado da colônia usando TwoPointCrossover: 714
+Resultado da colônia usando 3-PointCrossover: 702
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 682
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 790
+Resultado da colônia usando UniformCrossover: 330
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 684
+Resultado da colônia usando 3-PointCrossover: 666
+Resultado da colônia usando 4-PointCrossover: 660
+Resultado da colônia usando 5-PointCrossover: 608
+Resultado da colônia usando 6-PointCrossover: 628
+Resultado da colônia usando 7-PointCrossover: 652
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 7 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 672
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 682
+Resultado da colônia usando 5-PointCrossover: 702
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 496
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 800
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 858
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 734
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 700
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 504
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 400
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 698
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 708
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 678
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 504
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 858
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 790
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 710
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 736
+Resultado da colônia usando 6-PointCrossover: 706
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 464
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 322
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 648
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 612
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 620
+Resultado da colônia usando 7-PointCrossover: 626
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 472
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 764
+Resultado da colônia usando UniformCrossover: 358
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 546
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 814
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 624
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 400
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 720
+Resultado da colônia usando 4-PointCrossover: 716
+Resultado da colônia usando 5-PointCrossover: 690
+Resultado da colônia usando 6-PointCrossover: 724
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 466
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 716
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 694
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 360
+Resultado da colônia usando SegmentedCrossover: 814
+Resultado da colônia usando UniformCrossover: 324
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 644
+Resultado da colônia usando 5-PointCrossover: 628
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 496
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 778
+Resultado da colônia usando UniformCrossover: 348
+Resultado da colônia usando SinglePointCrossover: 782
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 634
+Resultado da colônia usando 4-PointCrossover: 636
+Resultado da colônia usando 5-PointCrossover: 706
+Resultado da colônia usando 6-PointCrossover: 620
+Resultado da colônia usando 7-PointCrossover: 628
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 850
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 744
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 720
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 678
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 796
+Resultado da colônia usando UniformCrossover: 364
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 662
+Resultado da colônia usando 3-PointCrossover: 658
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 658
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 464
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 412
+Resultado da colônia usando SinglePointCrossover: 892
+Resultado da colônia usando TwoPointCrossover: 748
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 702
+Resultado da colônia usando 7-PointCrossover: 718
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 518
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 904
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 868
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 724
+Resultado da colônia usando 4-PointCrossover: 718
+Resultado da colônia usando 5-PointCrossover: 630
+Resultado da colônia usando 6-PointCrossover: 718
+Resultado da colônia usando 7-PointCrossover: 700
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 818
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 678
+Resultado da colônia usando 3-PointCrossover: 722
+Resultado da colônia usando 4-PointCrossover: 710
+Resultado da colônia usando 5-PointCrossover: 694
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 654
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 474
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 790
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 688
+Resultado da colônia usando 3-PointCrossover: 640
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 620
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 484
+Resultado da colônia usando HalfUniformCrossover: 418
+Resultado da colônia usando SegmentedCrossover: 846
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 666
+Resultado da colônia usando 4-PointCrossover: 698
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 650
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 448
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 774
+Resultado da colônia usando UniformCrossover: 356
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 684
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 626
+Resultado da colônia usando 5-PointCrossover: 646
+Resultado da colônia usando 6-PointCrossover: 590
+Resultado da colônia usando 7-PointCrossover: 642
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 656
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 642
+Resultado da colônia usando 5-PointCrossover: 648
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 668
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 416
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 388
+Resultado da colônia usando SinglePointCrossover: 858
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 728
+Resultado da colônia usando 4-PointCrossover: 740
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 750
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 470
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 766
+Resultado da colônia usando UniformCrossover: 304
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 658
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 656
+Resultado da colônia usando 5-PointCrossover: 594
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 664
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 524
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 396
+Resultado da colônia usando SinglePointCrossover: 846
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 682
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 678
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 698
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 538
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 432
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 656
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 704
+Resultado da colônia usando 6-PointCrossover: 706
+Resultado da colônia usando 7-PointCrossover: 682
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 488
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 780
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 676
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 672
+Resultado da colônia usando 6-PointCrossover: 624
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 8 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 342
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 726
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 642
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 656
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 872
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 746
+Resultado da colônia usando 3-PointCrossover: 726
+Resultado da colônia usando 4-PointCrossover: 682
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 702
+Resultado da colônia usando 7-PointCrossover: 720
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 508
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 798
+Resultado da colônia usando UniformCrossover: 380
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 718
+Resultado da colônia usando 3-PointCrossover: 638
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 676
+Resultado da colônia usando 7-PointCrossover: 706
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 542
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 820
+Resultado da colônia usando UniformCrossover: 398
+Resultado da colônia usando SinglePointCrossover: 844
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 738
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 712
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 444
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 750
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 668
+Resultado da colônia usando 3-PointCrossover: 628
+Resultado da colônia usando 4-PointCrossover: 642
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 624
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 472
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 764
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 698
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 626
+Resultado da colônia usando 7-PointCrossover: 604
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 854
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 682
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 650
+Resultado da colônia usando 6-PointCrossover: 674
+Resultado da colônia usando 7-PointCrossover: 706
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 648
+Resultado da colônia usando HalfUniformCrossover: 358
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 344
+Resultado da colônia usando SinglePointCrossover: 850
+Resultado da colônia usando TwoPointCrossover: 718
+Resultado da colônia usando 3-PointCrossover: 692
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 696
+Resultado da colônia usando 6-PointCrossover: 680
+Resultado da colônia usando 7-PointCrossover: 698
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 528
+Resultado da colônia usando HalfUniformCrossover: 380
+Resultado da colônia usando SegmentedCrossover: 778
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 714
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 438
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 824
+Resultado da colônia usando UniformCrossover: 344
+Resultado da colônia usando SinglePointCrossover: 778
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 666
+Resultado da colônia usando 4-PointCrossover: 628
+Resultado da colônia usando 5-PointCrossover: 650
+Resultado da colônia usando 6-PointCrossover: 704
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 448
+Resultado da colônia usando HalfUniformCrossover: 334
+Resultado da colônia usando SegmentedCrossover: 780
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 808
+Resultado da colônia usando TwoPointCrossover: 666
+Resultado da colônia usando 3-PointCrossover: 652
+Resultado da colônia usando 4-PointCrossover: 648
+Resultado da colônia usando 5-PointCrossover: 620
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 532
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 874
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 814
+Resultado da colônia usando TwoPointCrossover: 732
+Resultado da colônia usando 3-PointCrossover: 724
+Resultado da colônia usando 4-PointCrossover: 630
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 656
+Resultado da colônia usando 7-PointCrossover: 718
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 454
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 788
+Resultado da colônia usando TwoPointCrossover: 664
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 642
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 668
+Resultado da colônia usando 7-PointCrossover: 640
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 404
+Resultado da colônia usando SegmentedCrossover: 870
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 866
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 704
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 848
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 854
+Resultado da colônia usando TwoPointCrossover: 746
+Resultado da colônia usando 3-PointCrossover: 732
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 678
+Resultado da colônia usando 7-PointCrossover: 706
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 398
+Resultado da colônia usando SegmentedCrossover: 870
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 818
+Resultado da colônia usando TwoPointCrossover: 728
+Resultado da colônia usando 3-PointCrossover: 684
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 702
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 330
+Resultado da colônia usando SegmentedCrossover: 760
+Resultado da colônia usando UniformCrossover: 338
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 622
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 814
+Resultado da colônia usando TwoPointCrossover: 710
+Resultado da colônia usando 3-PointCrossover: 672
+Resultado da colônia usando 4-PointCrossover: 690
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 448
+Resultado da colônia usando HalfUniformCrossover: 312
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 332
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 672
+Resultado da colônia usando 3-PointCrossover: 642
+Resultado da colônia usando 4-PointCrossover: 634
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 628
+Resultado da colônia usando 7-PointCrossover: 618
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 636
+Resultado da colônia usando 6-PointCrossover: 630
+Resultado da colônia usando 7-PointCrossover: 682
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 872
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 708
+Resultado da colônia usando 4-PointCrossover: 752
+Resultado da colônia usando 5-PointCrossover: 714
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 708
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 424
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 780
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 786
+Resultado da colônia usando TwoPointCrossover: 652
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 602
+Resultado da colônia usando 7-PointCrossover: 632
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 524
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 826
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 726
+Resultado da colônia usando 4-PointCrossover: 674
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 644
+Resultado da colônia usando 7-PointCrossover: 726
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 506
+Resultado da colônia usando HalfUniformCrossover: 396
+Resultado da colônia usando SegmentedCrossover: 824
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 678
+Resultado da colônia usando 6-PointCrossover: 698
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 798
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 662
+Resultado da colônia usando 4-PointCrossover: 626
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 662
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 9 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 536
+Resultado da colônia usando HalfUniformCrossover: 408
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 314
+Resultado da colônia usando SinglePointCrossover: 790
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 666
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 654
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 366
+Resultado da colônia usando SegmentedCrossover: 838
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 738
+Resultado da colônia usando 3-PointCrossover: 738
+Resultado da colônia usando 4-PointCrossover: 702
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 708
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 376
+Resultado da colônia usando SegmentedCrossover: 766
+Resultado da colônia usando UniformCrossover: 390
+Resultado da colônia usando SinglePointCrossover: 842
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 674
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 398
+Resultado da colônia usando SegmentedCrossover: 842
+Resultado da colônia usando UniformCrossover: 410
+Resultado da colônia usando SinglePointCrossover: 828
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 692
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 494
+Resultado da colônia usando HalfUniformCrossover: 358
+Resultado da colônia usando SegmentedCrossover: 760
+Resultado da colônia usando UniformCrossover: 366
+Resultado da colônia usando SinglePointCrossover: 772
+Resultado da colônia usando TwoPointCrossover: 638
+Resultado da colônia usando 3-PointCrossover: 650
+Resultado da colônia usando 4-PointCrossover: 632
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 486
+Resultado da colônia usando HalfUniformCrossover: 330
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 644
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 500
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 818
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 826
+Resultado da colônia usando TwoPointCrossover: 758
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 652
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 706
+Resultado da colônia usando 7-PointCrossover: 700
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 530
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 804
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 864
+Resultado da colônia usando TwoPointCrossover: 730
+Resultado da colônia usando 3-PointCrossover: 720
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 740
+Resultado da colônia usando 6-PointCrossover: 720
+Resultado da colônia usando 7-PointCrossover: 720
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 818
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 684
+Resultado da colônia usando 5-PointCrossover: 676
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 820
+Resultado da colônia usando UniformCrossover: 314
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 694
+Resultado da colônia usando 4-PointCrossover: 638
+Resultado da colônia usando 5-PointCrossover: 668
+Resultado da colônia usando 6-PointCrossover: 704
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 364
+Resultado da colônia usando SegmentedCrossover: 816
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 624
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 836
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 810
+Resultado da colônia usando TwoPointCrossover: 684
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 658
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 478
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 756
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 796
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 632
+Resultado da colônia usando 4-PointCrossover: 666
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 698
+Resultado da colônia usando 7-PointCrossover: 626
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 406
+Resultado da colônia usando SegmentedCrossover: 794
+Resultado da colônia usando UniformCrossover: 432
+Resultado da colônia usando SinglePointCrossover: 812
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 704
+Resultado da colônia usando 5-PointCrossover: 686
+Resultado da colônia usando 6-PointCrossover: 676
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 416
+Resultado da colônia usando SegmentedCrossover: 900
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 854
+Resultado da colônia usando TwoPointCrossover: 740
+Resultado da colônia usando 3-PointCrossover: 678
+Resultado da colônia usando 4-PointCrossover: 696
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 728
+Resultado da colônia usando 7-PointCrossover: 676
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 512
+Resultado da colônia usando HalfUniformCrossover: 356
+Resultado da colônia usando SegmentedCrossover: 832
+Resultado da colônia usando UniformCrossover: 378
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 738
+Resultado da colônia usando 4-PointCrossover: 660
+Resultado da colônia usando 5-PointCrossover: 722
+Resultado da colônia usando 6-PointCrossover: 712
+Resultado da colônia usando 7-PointCrossover: 704
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 458
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 784
+Resultado da colônia usando UniformCrossover: 338
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 706
+Resultado da colônia usando 3-PointCrossover: 642
+Resultado da colônia usando 4-PointCrossover: 652
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 608
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 814
+Resultado da colônia usando UniformCrossover: 408
+Resultado da colônia usando SinglePointCrossover: 848
+Resultado da colônia usando TwoPointCrossover: 724
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 632
+Resultado da colônia usando 5-PointCrossover: 688
+Resultado da colônia usando 6-PointCrossover: 700
+Resultado da colônia usando 7-PointCrossover: 710
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 456
+Resultado da colônia usando HalfUniformCrossover: 346
+Resultado da colônia usando SegmentedCrossover: 788
+Resultado da colônia usando UniformCrossover: 348
+Resultado da colônia usando SinglePointCrossover: 834
+Resultado da colônia usando TwoPointCrossover: 694
+Resultado da colônia usando 3-PointCrossover: 692
+Resultado da colônia usando 4-PointCrossover: 660
+Resultado da colônia usando 5-PointCrossover: 638
+Resultado da colônia usando 6-PointCrossover: 640
+Resultado da colônia usando 7-PointCrossover: 626
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 508
+Resultado da colônia usando HalfUniformCrossover: 362
+Resultado da colônia usando SegmentedCrossover: 808
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 794
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 668
+Resultado da colônia usando 5-PointCrossover: 696
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 510
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 854
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 720
+Resultado da colônia usando 3-PointCrossover: 706
+Resultado da colônia usando 4-PointCrossover: 694
+Resultado da colônia usando 5-PointCrossover: 700
+Resultado da colônia usando 6-PointCrossover: 700
+Resultado da colônia usando 7-PointCrossover: 680
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 434
+Resultado da colônia usando HalfUniformCrossover: 318
+Resultado da colônia usando SegmentedCrossover: 766
+Resultado da colônia usando UniformCrossover: 322
+Resultado da colônia usando SinglePointCrossover: 760
+Resultado da colônia usando TwoPointCrossover: 642
+Resultado da colônia usando 3-PointCrossover: 616
+Resultado da colônia usando 4-PointCrossover: 628
+Resultado da colônia usando 5-PointCrossover: 632
+Resultado da colônia usando 6-PointCrossover: 648
+Resultado da colônia usando 7-PointCrossover: 604
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 594
+Resultado da colônia usando HalfUniformCrossover: 392
+Resultado da colônia usando SegmentedCrossover: 820
+Resultado da colônia usando UniformCrossover: 410
+Resultado da colônia usando SinglePointCrossover: 840
+Resultado da colônia usando TwoPointCrossover: 736
+Resultado da colônia usando 3-PointCrossover: 710
+Resultado da colônia usando 4-PointCrossover: 688
+Resultado da colônia usando 5-PointCrossover: 652
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 374
+Resultado da colônia usando SegmentedCrossover: 876
+Resultado da colônia usando UniformCrossover: 412
+Resultado da colônia usando SinglePointCrossover: 786
+Resultado da colônia usando TwoPointCrossover: 722
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 670
+Resultado da colônia usando 5-PointCrossover: 674
+Resultado da colônia usando 6-PointCrossover: 672
+Resultado da colônia usando 7-PointCrossover: 686
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 538
+Resultado da colônia usando HalfUniformCrossover: 394
+Resultado da colônia usando SegmentedCrossover: 792
+Resultado da colônia usando UniformCrossover: 372
+Resultado da colônia usando SinglePointCrossover: 806
+Resultado da colônia usando TwoPointCrossover: 670
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 682
+Resultado da colônia usando 5-PointCrossover: 634
+Resultado da colônia usando 6-PointCrossover: 662
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_25.dat
+
+
+Execução 10 de 10
+Starting instances/d1000/d1000_01.dat
+Resultado da colônia usando método guloso: 714
+Resultado da colônia usando RandomRespectfulCombination: 528
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 854
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 654
+Resultado da colônia usando 4-PointCrossover: 682
+Resultado da colônia usando 5-PointCrossover: 672
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_01.dat
+
+Starting instances/d1000/d1000_02.dat
+Resultado da colônia usando método guloso: 708
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 384
+Resultado da colônia usando SinglePointCrossover: 820
+Resultado da colônia usando TwoPointCrossover: 700
+Resultado da colônia usando 3-PointCrossover: 680
+Resultado da colônia usando 4-PointCrossover: 664
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_02.dat
+
+Starting instances/d1000/d1000_03.dat
+Resultado da colônia usando método guloso: 668
+Resultado da colônia usando RandomRespectfulCombination: 480
+Resultado da colônia usando HalfUniformCrossover: 386
+Resultado da colônia usando SegmentedCrossover: 834
+Resultado da colônia usando UniformCrossover: 332
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 700
+Resultado da colônia usando 6-PointCrossover: 636
+Resultado da colônia usando 7-PointCrossover: 650
+Ending instances/d1000/d1000_03.dat
+
+Starting instances/d1000/d1000_04.dat
+Resultado da colônia usando método guloso: 692
+Resultado da colônia usando RandomRespectfulCombination: 524
+Resultado da colônia usando HalfUniformCrossover: 410
+Resultado da colônia usando SegmentedCrossover: 840
+Resultado da colônia usando UniformCrossover: 392
+Resultado da colônia usando SinglePointCrossover: 846
+Resultado da colônia usando TwoPointCrossover: 710
+Resultado da colônia usando 3-PointCrossover: 734
+Resultado da colônia usando 4-PointCrossover: 678
+Resultado da colônia usando 5-PointCrossover: 706
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 722
+Ending instances/d1000/d1000_04.dat
+
+Starting instances/d1000/d1000_05.dat
+Resultado da colônia usando método guloso: 606
+Resultado da colônia usando RandomRespectfulCombination: 442
+Resultado da colônia usando HalfUniformCrossover: 344
+Resultado da colônia usando SegmentedCrossover: 786
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 784
+Resultado da colônia usando TwoPointCrossover: 690
+Resultado da colônia usando 3-PointCrossover: 678
+Resultado da colônia usando 4-PointCrossover: 628
+Resultado da colônia usando 5-PointCrossover: 626
+Resultado da colônia usando 6-PointCrossover: 634
+Resultado da colônia usando 7-PointCrossover: 644
+Ending instances/d1000/d1000_05.dat
+
+Starting instances/d1000/d1000_06.dat
+Resultado da colônia usando método guloso: 622
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 334
+Resultado da colônia usando SegmentedCrossover: 778
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 758
+Resultado da colônia usando TwoPointCrossover: 688
+Resultado da colônia usando 3-PointCrossover: 674
+Resultado da colônia usando 4-PointCrossover: 640
+Resultado da colônia usando 5-PointCrossover: 646
+Resultado da colônia usando 6-PointCrossover: 654
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_06.dat
+
+Starting instances/d1000/d1000_07.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 544
+Resultado da colônia usando HalfUniformCrossover: 398
+Resultado da colônia usando SegmentedCrossover: 858
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 816
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 714
+Resultado da colônia usando 4-PointCrossover: 636
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_07.dat
+
+Starting instances/d1000/d1000_08.dat
+Resultado da colônia usando método guloso: 672
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 384
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 410
+Resultado da colônia usando SinglePointCrossover: 838
+Resultado da colônia usando TwoPointCrossover: 714
+Resultado da colônia usando 3-PointCrossover: 694
+Resultado da colônia usando 4-PointCrossover: 710
+Resultado da colônia usando 5-PointCrossover: 696
+Resultado da colônia usando 6-PointCrossover: 690
+Resultado da colônia usando 7-PointCrossover: 672
+Ending instances/d1000/d1000_08.dat
+
+Starting instances/d1000/d1000_09.dat
+Resultado da colônia usando método guloso: 650
+Resultado da colônia usando RandomRespectfulCombination: 496
+Resultado da colônia usando HalfUniformCrossover: 402
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 378
+Resultado da colônia usando SinglePointCrossover: 826
+Resultado da colônia usando TwoPointCrossover: 712
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 676
+Resultado da colônia usando 5-PointCrossover: 636
+Resultado da colônia usando 6-PointCrossover: 688
+Resultado da colônia usando 7-PointCrossover: 670
+Ending instances/d1000/d1000_09.dat
+
+Starting instances/d1000/d1000_10.dat
+Resultado da colônia usando método guloso: 594
+Resultado da colônia usando RandomRespectfulCombination: 460
+Resultado da colônia usando HalfUniformCrossover: 342
+Resultado da colônia usando SegmentedCrossover: 786
+Resultado da colônia usando UniformCrossover: 332
+Resultado da colônia usando SinglePointCrossover: 772
+Resultado da colônia usando TwoPointCrossover: 682
+Resultado da colônia usando 3-PointCrossover: 668
+Resultado da colônia usando 4-PointCrossover: 652
+Resultado da colônia usando 5-PointCrossover: 644
+Resultado da colônia usando 6-PointCrossover: 678
+Resultado da colônia usando 7-PointCrossover: 696
+Ending instances/d1000/d1000_10.dat
+
+Starting instances/d1000/d1000_11.dat
+Resultado da colônia usando método guloso: 638
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 824
+Resultado da colônia usando UniformCrossover: 368
+Resultado da colônia usando SinglePointCrossover: 782
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 626
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 654
+Resultado da colônia usando 6-PointCrossover: 700
+Resultado da colônia usando 7-PointCrossover: 638
+Ending instances/d1000/d1000_11.dat
+
+Starting instances/d1000/d1000_12.dat
+Resultado da colônia usando método guloso: 726
+Resultado da colônia usando RandomRespectfulCombination: 482
+Resultado da colônia usando HalfUniformCrossover: 388
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 386
+Resultado da colônia usando SinglePointCrossover: 824
+Resultado da colônia usando TwoPointCrossover: 704
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 708
+Resultado da colônia usando 6-PointCrossover: 670
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_12.dat
+
+Starting instances/d1000/d1000_13.dat
+Resultado da colônia usando método guloso: 648
+Resultado da colônia usando RandomRespectfulCombination: 464
+Resultado da colônia usando HalfUniformCrossover: 352
+Resultado da colônia usando SegmentedCrossover: 802
+Resultado da colônia usando UniformCrossover: 352
+Resultado da colônia usando SinglePointCrossover: 792
+Resultado da colônia usando TwoPointCrossover: 686
+Resultado da colônia usando 3-PointCrossover: 674
+Resultado da colônia usando 4-PointCrossover: 664
+Resultado da colônia usando 5-PointCrossover: 680
+Resultado da colônia usando 6-PointCrossover: 632
+Resultado da colônia usando 7-PointCrossover: 678
+Ending instances/d1000/d1000_13.dat
+
+Starting instances/d1000/d1000_14.dat
+Resultado da colônia usando método guloso: 682
+Resultado da colônia usando RandomRespectfulCombination: 490
+Resultado da colônia usando HalfUniformCrossover: 390
+Resultado da colônia usando SegmentedCrossover: 854
+Resultado da colônia usando UniformCrossover: 382
+Resultado da colônia usando SinglePointCrossover: 906
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 650
+Resultado da colônia usando 4-PointCrossover: 738
+Resultado da colônia usando 5-PointCrossover: 630
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 714
+Ending instances/d1000/d1000_14.dat
+
+Starting instances/d1000/d1000_15.dat
+Resultado da colônia usando método guloso: 710
+Resultado da colônia usando RandomRespectfulCombination: 508
+Resultado da colônia usando HalfUniformCrossover: 368
+Resultado da colônia usando SegmentedCrossover: 864
+Resultado da colônia usando UniformCrossover: 444
+Resultado da colônia usando SinglePointCrossover: 874
+Resultado da colônia usando TwoPointCrossover: 710
+Resultado da colônia usando 3-PointCrossover: 698
+Resultado da colônia usando 4-PointCrossover: 700
+Resultado da colônia usando 5-PointCrossover: 698
+Resultado da colônia usando 6-PointCrossover: 706
+Resultado da colônia usando 7-PointCrossover: 688
+Ending instances/d1000/d1000_15.dat
+
+Starting instances/d1000/d1000_16.dat
+Resultado da colônia usando método guloso: 632
+Resultado da colônia usando RandomRespectfulCombination: 502
+Resultado da colônia usando HalfUniformCrossover: 386
+Resultado da colônia usando SegmentedCrossover: 854
+Resultado da colônia usando UniformCrossover: 370
+Resultado da colônia usando SinglePointCrossover: 830
+Resultado da colônia usando TwoPointCrossover: 726
+Resultado da colônia usando 3-PointCrossover: 696
+Resultado da colônia usando 4-PointCrossover: 692
+Resultado da colônia usando 5-PointCrossover: 696
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 666
+Ending instances/d1000/d1000_16.dat
+
+Starting instances/d1000/d1000_17.dat
+Resultado da colônia usando método guloso: 670
+Resultado da colônia usando RandomRespectfulCombination: 516
+Resultado da colônia usando HalfUniformCrossover: 414
+Resultado da colônia usando SegmentedCrossover: 806
+Resultado da colônia usando UniformCrossover: 360
+Resultado da colônia usando SinglePointCrossover: 776
+Resultado da colônia usando TwoPointCrossover: 664
+Resultado da colônia usando 3-PointCrossover: 670
+Resultado da colônia usando 4-PointCrossover: 658
+Resultado da colônia usando 5-PointCrossover: 664
+Resultado da colônia usando 6-PointCrossover: 652
+Resultado da colônia usando 7-PointCrossover: 634
+Ending instances/d1000/d1000_17.dat
+
+Starting instances/d1000/d1000_18.dat
+Resultado da colônia usando método guloso: 666
+Resultado da colônia usando RandomRespectfulCombination: 498
+Resultado da colônia usando HalfUniformCrossover: 354
+Resultado da colônia usando SegmentedCrossover: 822
+Resultado da colônia usando UniformCrossover: 354
+Resultado da colônia usando SinglePointCrossover: 764
+Resultado da colônia usando TwoPointCrossover: 702
+Resultado da colônia usando 3-PointCrossover: 648
+Resultado da colônia usando 4-PointCrossover: 656
+Resultado da colônia usando 5-PointCrossover: 670
+Resultado da colônia usando 6-PointCrossover: 686
+Resultado da colônia usando 7-PointCrossover: 664
+Ending instances/d1000/d1000_18.dat
+
+Starting instances/d1000/d1000_19.dat
+Resultado da colônia usando método guloso: 630
+Resultado da colônia usando RandomRespectfulCombination: 434
+Resultado da colônia usando HalfUniformCrossover: 320
+Resultado da colônia usando SegmentedCrossover: 754
+Resultado da colônia usando UniformCrossover: 342
+Resultado da colônia usando SinglePointCrossover: 778
+Resultado da colônia usando TwoPointCrossover: 678
+Resultado da colônia usando 3-PointCrossover: 640
+Resultado da colônia usando 4-PointCrossover: 632
+Resultado da colônia usando 5-PointCrossover: 646
+Resultado da colônia usando 6-PointCrossover: 612
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_19.dat
+
+Starting instances/d1000/d1000_20.dat
+Resultado da colônia usando método guloso: 676
+Resultado da colônia usando RandomRespectfulCombination: 476
+Resultado da colônia usando HalfUniformCrossover: 370
+Resultado da colônia usando SegmentedCrossover: 812
+Resultado da colônia usando UniformCrossover: 374
+Resultado da colônia usando SinglePointCrossover: 766
+Resultado da colônia usando TwoPointCrossover: 710
+Resultado da colônia usando 3-PointCrossover: 664
+Resultado da colônia usando 4-PointCrossover: 638
+Resultado da colônia usando 5-PointCrossover: 660
+Resultado da colônia usando 6-PointCrossover: 660
+Resultado da colônia usando 7-PointCrossover: 636
+Ending instances/d1000/d1000_20.dat
+
+Starting instances/d1000/d1000_21.dat
+Resultado da colônia usando método guloso: 728
+Resultado da colônia usando RandomRespectfulCombination: 536
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 884
+Resultado da colônia usando UniformCrossover: 426
+Resultado da colônia usando SinglePointCrossover: 862
+Resultado da colônia usando TwoPointCrossover: 742
+Resultado da colônia usando 3-PointCrossover: 700
+Resultado da colônia usando 4-PointCrossover: 618
+Resultado da colônia usando 5-PointCrossover: 684
+Resultado da colônia usando 6-PointCrossover: 716
+Resultado da colônia usando 7-PointCrossover: 684
+Ending instances/d1000/d1000_21.dat
+
+Starting instances/d1000/d1000_22.dat
+Resultado da colônia usando método guloso: 578
+Resultado da colônia usando RandomRespectfulCombination: 468
+Resultado da colônia usando HalfUniformCrossover: 336
+Resultado da colônia usando SegmentedCrossover: 782
+Resultado da colônia usando UniformCrossover: 346
+Resultado da colônia usando SinglePointCrossover: 790
+Resultado da colônia usando TwoPointCrossover: 636
+Resultado da colônia usando 3-PointCrossover: 646
+Resultado da colônia usando 4-PointCrossover: 598
+Resultado da colônia usando 5-PointCrossover: 626
+Resultado da colônia usando 6-PointCrossover: 600
+Resultado da colônia usando 7-PointCrossover: 632
+Ending instances/d1000/d1000_22.dat
+
+Starting instances/d1000/d1000_23.dat
+Resultado da colônia usando método guloso: 704
+Resultado da colônia usando RandomRespectfulCombination: 474
+Resultado da colônia usando HalfUniformCrossover: 382
+Resultado da colônia usando SegmentedCrossover: 844
+Resultado da colônia usando UniformCrossover: 376
+Resultado da colônia usando SinglePointCrossover: 800
+Resultado da colônia usando TwoPointCrossover: 716
+Resultado da colônia usando 3-PointCrossover: 702
+Resultado da colônia usando 4-PointCrossover: 680
+Resultado da colônia usando 5-PointCrossover: 690
+Resultado da colônia usando 6-PointCrossover: 658
+Resultado da colônia usando 7-PointCrossover: 660
+Ending instances/d1000/d1000_23.dat
+
+Starting instances/d1000/d1000_24.dat
+Resultado da colônia usando método guloso: 716
+Resultado da colônia usando RandomRespectfulCombination: 514
+Resultado da colônia usando HalfUniformCrossover: 378
+Resultado da colônia usando SegmentedCrossover: 856
+Resultado da colônia usando UniformCrossover: 380
+Resultado da colônia usando SinglePointCrossover: 836
+Resultado da colônia usando TwoPointCrossover: 734
+Resultado da colônia usando 3-PointCrossover: 676
+Resultado da colônia usando 4-PointCrossover: 704
+Resultado da colônia usando 5-PointCrossover: 722
+Resultado da colônia usando 6-PointCrossover: 692
+Resultado da colônia usando 7-PointCrossover: 690
+Ending instances/d1000/d1000_24.dat
+
+Starting instances/d1000/d1000_25.dat
+Resultado da colônia usando método guloso: 636
+Resultado da colônia usando RandomRespectfulCombination: 576
+Resultado da colônia usando HalfUniformCrossover: 348
+Resultado da colônia usando SegmentedCrossover: 784
+Resultado da colônia usando UniformCrossover: 362
+Resultado da colônia usando SinglePointCrossover: 780
+Resultado da colônia usando TwoPointCrossover: 696
+Resultado da colônia usando 3-PointCrossover: 660
+Resultado da colônia usando 4-PointCrossover: 660
+Resultado da colônia usando 5-PointCrossover: 644
+Resultado da colônia usando 6-PointCrossover: 666
+Resultado da colônia usando 7-PointCrossover: 646
+Ending instances/d1000/d1000_25.dat
+
+
