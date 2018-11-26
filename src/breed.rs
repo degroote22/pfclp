@@ -1,6 +1,7 @@
 use rand::{thread_rng, Rng};
 
 #[derive(Debug)]
+#[allow(dead_code)]
 pub enum BreedStrategy {
     SinglePointCrossover,
     TwoPointCrossover,

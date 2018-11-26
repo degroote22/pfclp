@@ -2,8 +2,8 @@ use std::collections::{HashMap, HashSet};
 
 #[derive(Debug, Hash, PartialEq, Eq, Clone, Copy)]
 pub struct InstanceFace {
-    index: u32,
-    face: u8,
+    pub index: u32,
+    pub face: u8,
 }
 
 impl InstanceFace {
@@ -39,6 +39,7 @@ impl ParsedInstance {
         }
     }
 
+    #[allow(dead_code)]
     pub fn clip_num_points(&mut self, num_points: u32) {
         self.num_points = num_points;
     }
@@ -61,6 +62,24 @@ impl ParsedInstance {
             Some(lhs_collisions) => lhs_collisions.contains(rhs),
             None => false,
         }
+    }
+
+    pub fn point_degree(&self, p: &InstanceFace) -> u32 {
+        match self.get_collisions(p) {
+            Some(collisions) => collisions.len() as u32,
+            None => 0,
+        }
+    }
+
+    pub fn get_all_points(&self) -> Vec<InstanceFace> {
+        let mut v = vec![];
+
+        for index in 0..self.num_points {
+            for face in 0..self.num_candidates {
+                v.push(InstanceFace { index, face })
+            }
+        }
+        v
     }
 }
 

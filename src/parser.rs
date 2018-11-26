@@ -75,23 +75,20 @@ fn organize_collisions(
         let mapped_items: Vec<InstanceFace> = items
             .iter()
             // filtra os que são óbvios que estão em conflito pois são do mesmo ponto
-            .filter(|&item| {
-                let correct_item = *item -1;
-                let item_index_to_place = correct_item / num_candidates as u32;
-                item_index_to_place != index_to_place as u32
-            })
+            // .filter(|&item| {
+            //     let correct_item = *item -1;
+            //     let item_index_to_place = correct_item / num_candidates as u32;
+            //     item_index_to_place != index_to_place as u32
+            // })
             // coloca num formato de dados melhor, dividindo o item da face
             .map(|item| {
-                let correct_item = *item -1;
+                let correct_item = *item - 1;
 
                 let item_index_to_place = correct_item / num_candidates as u32;
                 let item_face_to_place = correct_item % num_candidates as u32;
 
                 // println!("item {} index {} face {}",correct_item, item_index_to_place, item_face_to_place);
-                return InstanceFace ::new(
-                item_index_to_place,
-                    item_face_to_place as u8,
-            );
+                return InstanceFace::new(item_index_to_place, item_face_to_place as u8);
             }).collect();
 
         if face_to_place == 0 {
