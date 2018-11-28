@@ -106,10 +106,15 @@ fn organize_collisions(
     collisions
 }
 
-pub fn parse(contents: &str) -> ParsedInstance {
+pub fn parse(contents: &str, clipping: Option<u32>) -> ParsedInstance {
     let r = _parse(contents);
-
-    ParsedInstance::new(r.num_points, r.num_candidates, r.collisions)
+    let l = {
+        match clipping {
+            None => r.num_points,
+            Some(x) => x,
+        }
+    };
+    ParsedInstance::new(l, r.num_candidates, r.collisions)
 }
 
 #[derive(Debug)]

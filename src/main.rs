@@ -50,13 +50,12 @@ fn print_and_local_search(
     // println!("");
 }
 fn main() {
-    let names = vec!["instances/d1000/d1000_01.dat"];
+    let names = vec!["instances/taillard/chH04L24p4.dat"];
     // let max = 10;
     // for i in 1..max + 1 {
     // println!("Execução {} de {}", i, max);
     for name in names.iter() {
-        let mut instance = parser::parse(&io::read_file(name));
-        // instance.clip_num_points(505);
+        let mut instance = parser::parse(&io::read_file(name), Some(505));
         println!("Starting {}", name);
         run_all_breeds(&instance);
         println!("");
@@ -66,14 +65,13 @@ fn main() {
 }
 
 fn run_all_breeds(instance: &instance::ParsedInstance) {
+    print_and_local_search(PreciseTime::now(), &instance, falp::run(&instance), "falp");
     print_and_local_search(
         PreciseTime::now(),
         &instance,
         greedy::generate(&instance),
         "método guloso",
     );
-
-    print_and_local_search(PreciseTime::now(), &instance, falp::run(&instance), "falp");
 
     // print_and_local_search(
     //     PreciseTime::now(),

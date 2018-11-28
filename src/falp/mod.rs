@@ -12,7 +12,9 @@ use instance;
 
 pub fn run(instance: &instance::ParsedInstance) -> Vec<u8> {
     let step1 = mnla::mnla(&instance);
+
     let step2 = plwc::plwc(&instance, step1);
+
     let step3 = lsa::lsa(&instance, step2);
 
     let mut v: Vec<instance::InstanceFace> = step3.into_iter().collect();

@@ -41,6 +41,12 @@ pub fn mnla(instance: &instance::ParsedInstance) -> HashSet<instance::InstanceFa
                             if _old.index < instance_face.index {
                                 lmin_instance_face = Some(*instance_face);
                                 lmin_degree = *degree;
+                            } else if _old.index == instance_face.index {
+                                // choose the highest indexed "face"
+                                if _old.face < instance_face.face {
+                                    lmin_instance_face = Some(*instance_face);
+                                    lmin_degree = *degree;
+                                }
                             }
                         }
                     }
@@ -49,27 +55,28 @@ pub fn mnla(instance: &instance::ParsedInstance) -> HashSet<instance::InstanceFa
 
             lmin_instance_face.unwrap()
         };
-
         s1.insert(lmin);
-
-        // Step 4. Remove lmin and all nodes adjacent to it from L*.
-        let collisions = instance.get_collisions(&lmin);
-        for col in collisions.unwrap() {
-            l_star.remove(col);
-        }
         l_star.remove(&lmin);
 
-        // Recalculate the degrees
+        // Step 4. Remove lmin and all nodes adjacent to it from L*.
+        let collisions = instance.get_collisions(&lmin).unwrap();
+        for col in collisions {
+            // remove e vê se já foi removido antes
+            // se não foi removido antes, diminui um grau do item
+            if let None = l_star.remove(col) {
+                continue;
+            }
 
-        for (p, _deg) in l_star.clone().iter() {
-            let collisions = instance.get_collisions(p).unwrap();
-            let mut deg = 0;
-            for c in collisions {
-                if l_star.contains_key(c) {
-                    deg += 1;
+            // Recalculate the degrees
+            let c2 = instance.get_collisions(col).unwrap();
+            for c in c2 {
+                match l_star.get_mut(c) {
+                    Some(x) => {
+                        *x -= 1;
+                    }
+                    None => {}
                 }
             }
-            l_star.insert(*p, deg);
         }
 
         // Step 5. Go to step 1.

@@ -9,16 +9,20 @@ pub fn lsa(
     for _ in 0..MAX_TIMES {
         for index in 0..instance.get_num_points() {
             let mut best: Option<(instance::InstanceFace, u32)> = None;
-
+            let mut old: Option<instance::InstanceFace> = None;
             for face in 0..instance.get_num_candidates() {
                 let instance_face = instance::InstanceFace::new(index, face);
-
+                if s_star.contains(&instance_face) {
+                    old = Some(instance_face);
+                }
                 let gk = {
                     let mut result = 0;
 
                     for col in instance.get_collisions(&instance_face).unwrap() {
                         if s_star.contains(col) {
-                            result += 1;
+                            if col.index != index {
+                                result += 1;
+                            }
                         }
                     }
 
@@ -28,26 +32,22 @@ pub fn lsa(
                 // update the best
                 match best {
                     None => best = Some((instance_face, gk)),
-                    Some((_, old)) => {
-                        if gk < old {
+                    Some((old_instance_face, stored_gk)) => {
+                        if gk < stored_gk {
                             best = Some((instance_face, gk))
+                        } else if gk == stored_gk {
+                            // se igual pega o de maior index
+                            if old_instance_face.face < instance_face.face {
+                                best = Some((instance_face, gk))
+                            }
                         }
                     }
                 }
             }
 
-            let (instance_face, gk) = best.unwrap();
-            if gk != 0 {
-                let mut old_instance_face = None;
-                for p in s_star.iter() {
-                    if p.index == instance_face.index {
-                        old_instance_face = Some(*p);
-                    }
-                }
-
-                s_star.remove(&old_instance_face.unwrap());
-                s_star.insert(instance_face);
-            }
+            let (instance_face, _gk) = best.unwrap();
+            s_star.remove(&old.unwrap());
+            s_star.insert(instance_face);
         }
     }
 

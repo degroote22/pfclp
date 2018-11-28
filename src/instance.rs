@@ -35,13 +35,8 @@ impl ParsedInstance {
         ParsedInstance {
             num_points,
             num_candidates,
-            collisions_map: make_collisions_map(&collisions),
+            collisions_map: make_collisions_map(&collisions, num_points),
         }
-    }
-
-    #[allow(dead_code)]
-    pub fn clip_num_points(&mut self, num_points: u32) {
-        self.num_points = num_points;
     }
 
     pub fn get_num_points(&self) -> u32 {
@@ -83,10 +78,13 @@ impl ParsedInstance {
     }
 }
 
-fn make_collisions_map(collisions: &CollisionVec) -> CollisionMap {
+fn make_collisions_map(collisions: &CollisionVec, len: u32) -> CollisionMap {
     let mut collisions_bag = HashMap::new();
 
     for (index_point, vector_of_candidates) in collisions.iter().enumerate() {
+        if index_point >= len as usize {
+            continue;
+        }
         for (index_candidate, vector_of_collisions) in vector_of_candidates.iter().enumerate() {
             let face = InstanceFace::new(index_point as u32, index_candidate as u8);
             if !collisions_bag.contains_key(&face) {
@@ -94,6 +92,9 @@ fn make_collisions_map(collisions: &CollisionVec) -> CollisionMap {
             }
             let mut set = collisions_bag.get_mut(&face).unwrap();
             for collision in vector_of_collisions {
+                if collision.index >= len {
+                    continue;
+                }
                 set.insert(collision.clone());
             }
         }
@@ -126,7 +127,7 @@ mod test_instance {
 
         let col = vec![point_a, point_b];
 
-        let map = make_collisions_map(&col);
+        let map = make_collisions_map(&col, col.len() as u32);
 
         let mut set0 = HashSet::new();
         set0.insert(face_b_0);
