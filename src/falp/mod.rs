@@ -8,12 +8,68 @@
 mod lsa;
 mod mnla;
 mod plwc;
+mod rclc;
+mod rclv;
+use calc;
 use instance;
+const GRASP_MAX_TIMES: u32 = 10;
+const ALPHA: f64 = 0.01;
 
-pub fn run(instance: &instance::ParsedInstance) -> Vec<u8> {
-    let step1 = mnla::mnla(&instance);
+pub enum RclMode {
+    Value,
+    Cardinality,
+}
 
-    let step2 = plwc::plwc(&instance, step1);
+pub struct Config {
+    pub rcl_mode: RclMode,
+    pub alpha: Alpha,
+}
+
+pub struct Alpha {
+    v: f64,
+}
+
+impl Alpha {
+    pub fn new(v: f64) -> Alpha {
+        assert!(v >= 0.0);
+        assert!(v <= 1.0);
+        Alpha { v }
+    }
+    fn get(&self) -> f64 {
+        self.v
+    }
+}
+
+pub fn grasp(instance: &instance::ParsedInstance) -> Vec<u8> {
+    let mut best = None;
+    for _ in 0..GRASP_MAX_TIMES {
+        let solution = run(
+            &instance,
+            &Config {
+                alpha: Alpha::new(ALPHA),
+                rcl_mode: RclMode::Value,
+            },
+        );
+        let result = calc::calc(&instance, &solution);
+        match best {
+            None => {
+                best = Some((solution, result));
+            }
+            Some((_, res)) => {
+                if result < res {
+                    best = Some((solution, result));
+                }
+            }
+        }
+    }
+
+    best.unwrap().0
+}
+
+pub fn run(instance: &instance::ParsedInstance, config: &Config) -> Vec<u8> {
+    let step1 = mnla::mnla(&instance, config);
+
+    let step2 = plwc::plwc(&instance, step1, config);
 
     let step3 = lsa::lsa(&instance, step2);
 
