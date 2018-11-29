@@ -1,0 +1,396 @@
+Starting instances/taillard/chH02L24p4.dat - 505 
+grasp:
+163ms
+RLS: 96.63%
+Bee Colony + UniformCrossover:
+7888ms
+RLS: 92.67%
+método guloso:
+13ms
+RLS: 80.59%
+
+Starting instances/taillard/chH02L32p4.dat - 505 
+grasp:
+139ms
+RLS: 94.85%
+Bee Colony + UniformCrossover:
+8024ms
+RLS: 90.69%
+método guloso:
+14ms
+RLS: 73.07%
+
+Starting instances/taillard/chH03L16p4.dat - 505 
+grasp:
+139ms
+RLS: 92.67%
+Bee Colony + UniformCrossover:
+8077ms
+RLS: 87.92%
+método guloso:
+14ms
+RLS: 70.10%
+
+Starting instances/taillard/chH02L42p4.dat - 505 
+grasp:
+141ms
+RLS: 91.49%
+Bee Colony + UniformCrossover:
+8476ms
+RLS: 84.16%
+método guloso:
+16ms
+RLS: 62.97%
+
+Starting instances/taillard/chH02L48p4.dat - 505 
+grasp:
+150ms
+RLS: 89.70%
+Bee Colony + UniformCrossover:
+8691ms
+RLS: 82.57%
+método guloso:
+16ms
+RLS: 57.03%
+
+Starting instances/taillard/chH03L24p4.dat - 505 
+grasp:
+144ms
+RLS: 87.92%
+Bee Colony + UniformCrossover:
+8860ms
+RLS: 81.19%
+método guloso:
+16ms
+RLS: 55.45%
+
+Starting instances/taillard/chH04L16p4.dat - 505 
+grasp:
+146ms
+RLS: 85.94%
+Bee Colony + UniformCrossover:
+8942ms
+RLS: 77.62%
+método guloso:
+16ms
+RLS: 49.70%
+
+Starting instances/taillard/chH03L28p4.dat - 505 
+grasp:
+148ms
+RLS: 84.36%
+Bee Colony + UniformCrossover:
+9239ms
+RLS: 76.04%
+método guloso:
+17ms
+RLS: 47.92%
+
+Starting instances/taillard/chH04L18p4.dat - 505 
+grasp:
+149ms
+RLS: 83.37%
+Bee Colony + UniformCrossover:
+9300ms
+RLS: 75.84%
+método guloso:
+18ms
+RLS: 44.36%
+
+Starting instances/taillard/chH03L32p4.dat - 505 
+grasp:
+148ms
+RLS: 81.39%
+Bee Colony + UniformCrossover:
+9691ms
+RLS: 72.08%
+método guloso:
+19ms
+RLS: 41.39%
+
+Starting instances/taillard/chH04L21p4.dat - 505 
+grasp:
+149ms
+RLS: 79.21%
+Bee Colony + UniformCrossover:
+10028ms
+RLS: 71.68%
+método guloso:
+18ms
+RLS: 34.46%
+
+Starting instances/taillard/chH04L24p4.dat - 505 
+grasp:
+150ms
+RLS: 75.25%
+Bee Colony + UniformCrossover:
+12228ms
+RLS: 65.15%
+método guloso:
+23ms
+RLS: 25.54%
+
+Starting instances/taillard/chH02L24p4.dat - 5046 
+grasp:
+11925ms
+RLS: 93.08%
+Bee Colony + UniformCrossover:
+117769ms
+RLS: 67.26%
+método guloso:
+1686ms
+RLS: 67.58%
+
+Starting instances/taillard/chH02L32p4.dat - 5046 
+grasp:
+9230ms
+RLS: 84.38%
+Bee Colony + UniformCrossover:
+135767ms
+RLS: 52.73%
+método guloso:
+2153ms
+RLS: 50.52%
+
+Starting instances/taillard/chH03L16p4.dat - 5046 
+grasp:
+11672ms
+RLS: 88.86%
+Bee Colony + UniformCrossover:
+130630ms
+RLS: 60.60%
+método guloso:
+1766ms
+RLS: 59.00%
+
+Starting instances/taillard/chH02L42p4.dat - 5046 
+grasp:
+8922ms
+RLS: 70.06%
+Bee Colony + UniformCrossover:
+145947ms
+RLS: 36.09%
+método guloso:
+2439ms
+RLS: 25.31%
+
+Starting instances/taillard/chH02L48p4.dat - 5046 
+grasp:
+13783ms
+RLS: 62.07%
+Bee Colony + UniformCrossover:
+183134ms
+RLS: 23.40%
+método guloso:
+2687ms
+RLS: 12.56%
+
+Starting instances/taillard/chH03L24p4.dat - 5046 
+grasp:
+11654ms
+RLS: 72.47%
+Bee Colony + UniformCrossover:
+177476ms
+RLS: 36.09%
+método guloso:
+2561ms
+RLS: 27.41%
+
+Starting instances/taillard/chH04L16p4.dat - 5046 
+grasp:
+11839ms
+RLS: 74.83%
+Bee Colony + UniformCrossover:
+171186ms
+RLS: 39.73%
+método guloso:
+2625ms
+RLS: 31.61%
+
+Starting instances/taillard/chH03L28p4.dat - 5046 
+grasp:
+11754ms
+RLS: 62.37%
+Bee Colony + UniformCrossover:
+184196ms
+RLS: 22.35%
+método guloso:
+2717ms
+RLS: 10.74%
+
+Starting instances/taillard/chH04L18p4.dat - 5046 
+grasp:
+11870ms
+RLS: 67.88%
+Bee Colony + UniformCrossover:
+182779ms
+RLS: 30.38%
+método guloso:
+2678ms
+RLS: 20.37%
+
+Starting instances/taillard/chH03L32p4.dat - 5046 
+grasp:
+11394ms
+RLS: 52.73%
+Bee Colony + UniformCrossover:
+191217ms
+RLS: 8.72%
+método guloso:
+2773ms
+RLS: -5.47%
+
+Starting instances/taillard/chH04L21p4.dat - 5046 
+grasp:
+11888ms
+RLS: 57.97%
+Bee Colony + UniformCrossover:
+183674ms
+RLS: 16.11%
+método guloso:
+2691ms
+RLS: 3.41%
+
+Starting instances/taillard/chH04L24p4.dat - 5046 
+grasp:
+11084ms
+RLS: 47.36%
+Bee Colony + UniformCrossover:
+194885ms
+RLS: 3.27%
+método guloso:
+2781ms
+RLS: -14.43%
+
+Starting instances/taillard/chH02L24p4.dat - 13k 
+grasp:
+77361ms
+RLS: 95.15%
+Bee Colony + UniformCrossover:
+424111ms
+RLS: 70.12%
+método guloso:
+12900ms
+RLS: 75.17%
+
+Starting instances/taillard/chH02L32p4.dat - 13k 
+grasp:
+74317ms
+RLS: 90.01%
+Bee Colony + UniformCrossover:
+446589ms
+RLS: 58.10%
+método guloso:
+13142ms
+RLS: 63.22%
+
+Starting instances/taillard/chH03L16p4.dat - 13k 
+grasp:
+76947ms
+RLS: 92.56%
+Bee Colony + UniformCrossover:
+428578ms
+RLS: 63.10%
+método guloso:
+11655ms
+RLS: 67.96%
+
+Starting instances/taillard/chH02L42p4.dat - 13k 
+grasp:
+63331ms
+RLS: 82.00%
+Bee Colony + UniformCrossover:
+430533ms
+RLS: 45.93%
+método guloso:
+13248ms
+RLS: 46.53%
+
+Starting instances/taillard/chH02L48p4.dat - 13k 
+grasp:
+63275ms
+RLS: 77.26%
+Bee Colony + UniformCrossover:
+444692ms
+RLS: 37.69%
+método guloso:
+14020ms
+RLS: 37.45%
+
+Starting instances/taillard/chH03L24p4.dat - 13k 
+grasp:
+64123ms
+RLS: 81.68%
+Bee Colony + UniformCrossover:
+430838ms
+RLS: 41.88%
+método guloso:
+13748ms
+RLS: 44.68%
+
+Starting instances/taillard/chH04L16p4.dat - 13k 
+grasp:
+63527ms
+RLS: 82.70%
+Bee Colony + UniformCrossover:
+429288ms
+RLS: 44.41%
+método guloso:
+13646ms
+RLS: 46.93%
+
+Starting instances/taillard/chH03L28p4.dat - 13k 
+grasp:
+63053ms
+RLS: 75.19%
+Bee Colony + UniformCrossover:
+448682ms
+RLS: 32.75%
+método guloso:
+14519ms
+RLS: 32.70%
+
+Starting instances/taillard/chH04L18p4.dat - 13k 
+grasp:
+62645ms
+RLS: 77.92%
+Bee Colony + UniformCrossover:
+444039ms
+RLS: 35.98%
+método guloso:
+14179ms
+RLS: 38.23%
+
+Starting instances/taillard/chH03L32p4.dat - 13k 
+grasp:
+61783ms
+RLS: 68.73%
+Bee Colony + UniformCrossover:
+463542ms
+RLS: 23.62%
+método guloso:
+15014ms
+RLS: 21.10%
+
+Starting instances/taillard/chH04L21p4.dat - 13k 
+grasp:
+62174ms
+RLS: 71.06%
+Bee Colony + UniformCrossover:
+475437ms
+RLS: 25.62%
+método guloso:
+15023ms
+RLS: 25.44%
+
+Starting instances/taillard/chH04L24p4.dat - 13k 
+grasp:
+62310ms
+RLS: 63.98%
+Bee Colony + UniformCrossover:
+487620ms
+RLS: 15.05%
+método guloso:
+15974ms
+RLS: 11.78%
+

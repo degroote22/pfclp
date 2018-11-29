@@ -1,0 +1,136 @@
+Starting instances/taillard/chH02L24p4.dat - 505 
+grasp:
+139ms
+RLS: 96.83%
+Bee Colony + UniformCrossover:
+7671ms
+RLS: 92.67%
+método guloso:
+14ms
+RLS: 80.59%
+
+Starting instances/taillard/chH02L32p4.dat - 505 
+grasp:
+142ms
+RLS: 95.05%
+Bee Colony + UniformCrossover:
+7997ms
+RLS: 89.11%
+método guloso:
+15ms
+RLS: 73.07%
+
+Starting instances/taillard/chH03L16p4.dat - 505 
+grasp:
+142ms
+RLS: 92.67%
+Bee Colony + UniformCrossover:
+8086ms
+RLS: 88.32%
+método guloso:
+14ms
+RLS: 70.10%
+
+Starting instances/taillard/chH02L42p4.dat - 505 
+grasp:
+142ms
+RLS: 91.49%
+Bee Colony + UniformCrossover:
+8347ms
+RLS: 86.34%
+método guloso:
+16ms
+RLS: 62.97%
+
+Starting instances/taillard/chH02L48p4.dat - 505 
+grasp:
+144ms
+RLS: 89.50%
+Bee Colony + UniformCrossover:
+8628ms
+RLS: 84.36%
+método guloso:
+17ms
+RLS: 57.03%
+
+Starting instances/taillard/chH03L24p4.dat - 505 
+grasp:
+143ms
+RLS: 88.12%
+Bee Colony + UniformCrossover:
+8827ms
+RLS: 79.21%
+método guloso:
+16ms
+RLS: 55.45%
+
+Starting instances/taillard/chH04L16p4.dat - 505 
+grasp:
+147ms
+RLS: 85.54%
+Bee Colony + UniformCrossover:
+8997ms
+RLS: 77.23%
+método guloso:
+16ms
+RLS: 49.70%
+
+Starting instances/taillard/chH03L28p4.dat - 505 
+grasp:
+147ms
+RLS: 83.96%
+Bee Colony + UniformCrossover:
+9200ms
+RLS: 74.46%
+método guloso:
+17ms
+RLS: 47.92%
+
+Starting instances/taillard/chH04L18p4.dat - 505 
+grasp:
+150ms
+RLS: 83.37%
+Bee Colony + UniformCrossover:
+9238ms
+RLS: 75.05%
+método guloso:
+17ms
+RLS: 44.36%
+
+Starting instances/taillard/chH03L32p4.dat - 505 
+grasp:
+153ms
+RLS: 81.19%
+Bee Colony + UniformCrossover:
+9540ms
+RLS: 71.49%
+método guloso:
+18ms
+RLS: 41.39%
+
+Starting instances/taillard/chH04L21p4.dat - 505 
+grasp:
+155ms
+RLS: 79.60%
+Bee Colony + UniformCrossover:
+9654ms
+RLS: 71.88%
+método guloso:
+19ms
+RLS: 34.46%
+
+Starting instances/taillard/chH04L24p4.dat - 505 
+grasp:
+151ms
+RLS: 74.85%
+Bee Colony + UniformCrossover:
+10185ms
+RLS: 66.14%
+método guloso:
+19ms
+RLS: 25.54%
+
+Starting instances/taillard/chH02L24p4.dat - 5046 
+grasp:
+9520ms
+RLS: 93.06%

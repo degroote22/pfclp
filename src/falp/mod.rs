@@ -8,20 +8,17 @@
 mod lsa;
 mod mnla;
 mod plwc;
-mod rclc;
 mod rclv;
 use calc;
 use instance;
-const GRASP_MAX_TIMES: u32 = 10;
+use std::sync::mpsc::channel;
+use std::thread;
+
+const GRASP_MAX_TIMES: u32 = 20;
+const DIV: u32 = 4;
 const ALPHA: f64 = 0.01;
 
-pub enum RclMode {
-    Value,
-    Cardinality,
-}
-
 pub struct Config {
-    pub rcl_mode: RclMode,
     pub alpha: Alpha,
 }
 
@@ -40,24 +37,36 @@ impl Alpha {
     }
 }
 
-pub fn grasp(instance: &instance::ParsedInstance) -> Vec<u8> {
+pub fn grasp(instance: &'static instance::ParsedInstance) -> Vec<u8> {
     let mut best = None;
+    let (tx, rx) = channel();
+
+    let nt = GRASP_MAX_TIMES / DIV;
+    for _ in 0..nt {
+        let tx = tx.clone();
+
+        thread::spawn(move || {
+            for _ in 0..DIV {
+                let solution = run(
+                    &instance,
+                    &Config {
+                        alpha: Alpha::new(ALPHA),
+                    },
+                );
+                let objective_function = calc::calc(&instance, &solution);
+                tx.send((solution, objective_function)).unwrap();
+            }
+        });
+    }
     for _ in 0..GRASP_MAX_TIMES {
-        let solution = run(
-            &instance,
-            &Config {
-                alpha: Alpha::new(ALPHA),
-                rcl_mode: RclMode::Value,
-            },
-        );
-        let result = calc::calc(&instance, &solution);
+        let (solution, objective_function) = rx.recv().unwrap();
         match best {
             None => {
-                best = Some((solution, result));
+                best = Some((solution, objective_function));
             }
-            Some((_, res)) => {
-                if result < res {
-                    best = Some((solution, result));
+            Some((_, best_objective_function)) => {
+                if objective_function < best_objective_function {
+                    best = Some((solution, objective_function));
                 }
             }
         }
@@ -71,7 +80,7 @@ pub fn run(instance: &instance::ParsedInstance, config: &Config) -> Vec<u8> {
 
     let step2 = plwc::plwc(&instance, step1, config);
 
-    let step3 = lsa::lsa(&instance, step2);
+    let step3 = lsa::lsa(&instance, step2, config);
 
     let mut v: Vec<instance::InstanceFace> = step3.into_iter().collect();
 

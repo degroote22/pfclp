@@ -26,14 +26,7 @@ pub fn mnla(
 
         // Step 3. Select lmin, the node of smallest degree on L*.  Place it in the nonconflict set S1.
 
-        let lmin = {
-            match config.rcl_mode {
-                falp::RclMode::Cardinality => {
-                    falp::rclc::RestrictedCandidateListCardinal::take(&l_star, config)
-                }
-                falp::RclMode::Value => falp::rclv::rclv(&l_star, config),
-            }
-        };
+        let lmin = falp::rclv::rclv(&l_star, config);
 
         // Step 4. Remove lmin and all nodes adjacent to it from L*.
         s1.insert(lmin);
