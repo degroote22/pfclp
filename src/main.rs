@@ -1,7 +1,7 @@
-mod bee;
-mod breed;
+// mod bee;
+// mod breed;
 mod calc;
-mod greedy;
+// mod greedy;
 mod instance;
 mod io;
 // mod local_search;
@@ -87,17 +87,17 @@ fn run_all_breeds(instance: &'static instance::ParsedInstance) {
         "grasp",
     );
 
-    print_and_local_search(
-        PreciseTime::now(),
-        &instance,
-        bee::run_hive(&instance, breed::BreedStrategy::UniformCrossover),
-        "Bee Colony + UniformCrossover",
-    );
+    // print_and_local_search(
+    //     PreciseTime::now(),
+    //     &instance,
+    //     bee::run_hive(&instance, breed::BreedStrategy::UniformCrossover),
+    //     "Bee Colony + UniformCrossover",
+    // );
 
-    print_and_local_search(
-        PreciseTime::now(),
-        &instance,
-        greedy::generate(&instance),
-        "método guloso",
-    );
+    // print_and_local_search(
+    //     PreciseTime::now(),
+    //     &instance,
+    //     greedy::generate(&instance),
+    //     "método guloso",
+    // );
 }

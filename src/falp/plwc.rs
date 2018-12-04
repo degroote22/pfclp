@@ -27,11 +27,8 @@ pub fn plwc(
 
                 for col in instance.get_collisions(&instance_face).unwrap() {
                     if s1.contains(col) {
-                        //
                         assert!(col.index != *point);
-                        // {
                         result += 1;
-                        // }
                     }
                 }
 
